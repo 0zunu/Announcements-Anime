@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/0zunu/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 14, 2026, 8:11:38 PM</em></p>
+<p align="center"><em>Updated on: Jul 15, 2026, 8:28:55 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/0zunu/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/0zunu/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/0zunu/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/0zunu/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Detective Conan - Episode 1206 - The Man Who Came Falling Down</h3></th>
+<th><h3 align="center">Kaina of the Great Snow Sea: star sage (Thai Dub) - star sage</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c245d947419cddd960354d3131731c8e1783351186_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/30d41d8899338ce3462601ab901109c41703203694_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV15P/the-man-who-came-falling-down">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN04E3/star-sage">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A man comes tumbling down some steps while Kogoro and Conan are looking for a<br>lost notebook.</p>
+<p align="center">Kaina and Ririha's quest leads them to a nation with a dark plan, while Amelothée<br>grapples with her loyalty.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 3 - Episode 3 - AKIRA Returns, Star Wars Goes Anime, and Anime Expo Is Bigger Than Ever</h3></th>
+<th><h3 align="center">New Saga (Thai Dub) - Episode 11 - Secret Red-Hot Strategy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c1fc2aa2001203839408278ace9680221783696861_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5ef0834f6ba3fe1819e0ae305f3f21b01757479903_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/10/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV8KK/akira-returns-star-wars-goes-anime-and-anime-expo-is-bigger-than-ever">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZX8W/secret-red-hot-strategy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Anime Effect is live from Anime Expo 2026! The hosts unite IRL to explore<br>why anime conventions are bigger than ever, AKIRA’s theatrical return, Star Wars' new anime, The<br>Apothecary Diaries movie, and the wildest Naruto release we've heard about in years!</p>
+<p align="center">Kyle and his companions acquire surprising new information about demons.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Star Blazers: Space Battleship Yamato 3199 - Episode 19 - Terrifying! The Black Space Battleship Yamato!!</h3></th>
+<th><h3 align="center">New Saga (Thai Dub) - Episode 12 - The Heroic Tale Continues</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4a5f79e878c2f380b061f8839eb71e841783110397_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/be409b8696112b4cda745c4c922039541758062149_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/9/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E54G/terrifying-the-black-space-battleship-yamato">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78E45/the-heroic-tale-continues">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Yamato transforms into a terrible weapon after the young crew take over.</p>
+<p align="center">Kyle's party concludes their business in Karan, but ominous clouds can be seen on the<br>horizon.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Star Blazers: Space Battleship Yamato 3199 - Episode 20 - July 21, 2026 - The Yamato Appears in Tokyo</h3></th>
+<th><h3 align="center">New Saga (Thai Dub) - Episode 6 - Brothers in Arms</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1d647f56e1d1f8df3407113ee0f1e4821783109421_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/aba9cb10e056cd6030a38730ac76603d1754502685_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/9/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QJ2J/july-21-2026-the-yamato-appears-in-tokyo">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN04MM/brothers-in-arms">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Yamato is transported back in time to 2026 Japan.</p>
+<p align="center">Kyle's party is celebrated for rescuing the princess, but they're given no time to rest<br>on their laurels.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Star Blazers: Space Battleship Yamato 3199 - Episode 21 - The Stolen Yamato - The Choice of 2026</h3></th>
+<th><h3 align="center">New Saga (Thai Dub) - Episode 7 - To the Blacksmith's Nation</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6f048a6437f318c2176409d88b27d5b01783109784_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d7fe5366dfdd30573d5876d858373f1c1755100486_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/9/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ1DV/the-stolen-yamato-the-choice-of-2026">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NGK9/to-the-blacksmiths-nation">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The young crew of Yamato decide to change history.</p>
+<p align="center">Kyle's party arrives in Karan and becomes embroiled in tensions between Zirgus and the Gargan<br>Empire.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Star Blazers: Space Battleship Yamato 3199 - Episode 22 - Begin the Counterattack! Revive, Ginga!</h3></th>
+<th><h3 align="center">New Saga (Thai Dub) - Episode 8 - Those Who Act Out of Sight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f39b5b59f9edccfcf76b60d6fd1450e61783110171_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a5f02c0831b94d89d98a3ab96f4c3b301755660425_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/9/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4957/begin-the-counterattack-revive-ginga">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV2W7/those-who-act-out-of-sight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The assault on the Grand Reverse begins.</p>
+<p align="center">A number of unsettling and violent attacks take place across the city of Karan.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Kazekage's Rescue (Telugu Dub) - Episode 30 - Aesthetics of an Instant</h3></th>
+<th><h3 align="center">New Saga (Thai Dub) - Episode 9 - Hidden Ambitions</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/50de962e7ea4cd382f431edc15bc30bc1229995085_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/90949b447d6dac88b039359c7049447d1756154891_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX241Q/aesthetics-of-an-instant">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVQ12/hidden-ambitions">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Naruto loses all reason to anger and is gradually taken over by the Nine-Tailed Fox<br>Spirit. Having been forewarned by Jiraiya, Kakashi narrowly manages to suppress the Nine-Tailed Fox.</p>
+<p align="center">Kyle insists on finding the secret underground passage hidden beneath Karan.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Kazekage's Rescue (Telugu Dub) - Episode 31 - The Legacy</h3></th>
+<th><h3 align="center">New Saga (Thai Dub) - Episode 10 - Duel</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d8d75eaa642710d298d2d1d61e4c8ea91229997278_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6b25cbbf56b95e5272b1b50dedfbf5951756912418_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNDZP/the-legacy">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGVX9/duel">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Relying on Naruto's power, Granny Chiyo performs the Transmigration Jutsu on Gaara. Sakura is saddened<br>when she realizes the cost of this jutsu.</p>
+<p align="center">The demons agree to formally duel Kyle's party for the holy sword and information.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Kazekage's Rescue (Telugu Dub) - Episode 32 - Return of the Kazekage</h3></th>
+<th><h3 align="center">New Saga (Thai Dub) - Episode 1 - I'll Change My Fate</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad8df310ac16a8eedddaa88cd162257e1229996173_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7564395aaabbf84135199286f9bfab6a1751471182_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZX09/return-of-the-kazekage">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3M9N/ill-change-my-fate">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gaara and his rescuers make a triumphant return to the Hidden Sand Village. After paying<br>their respects at Granny Chiyo's grave, Naruto and the Leaf ninja reluctantly take their leave.</p>
+<p align="center">Kyle is sent back in time after his fateful fight with the demon king and<br>swears to save the world this time.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Kazekage's Rescue (Telugu Dub) - Episode 25 - Three Minutes Between Life and Death</h3></th>
+<th><h3 align="center">New Saga (Thai Dub) - Episode 2 - The Hero's Conditions</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/21f555bb153d2a333cb8f627fd84e6bc1229994639_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1bd673ce01e8e74e59ac9c71f93bf3f91752075755_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ29KM/three-minutes-between-life-and-death">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEXQNX/the-heros-conditions">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sakura destroys the Third Kazekage puppet thanks to a secret antidote she had taken. Sakuro<br>explains to a surprised Granny Chiyo that this antidote converts the poison into harmless protein<br>and is effective for about three minutes.</p>
+<p align="center">Kyle sets about making preparations for his heroic journey and the fight to come.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Kazekage's Rescue (Telugu Dub) - Episode 26 - Puppet Fight: 10 vs. 100!</h3></th>
+<th><h3 align="center">New Saga (Thai Dub) - Episode 3 - Application of the Contract</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/57ecf403759710611d1b17d6d60332061229994628_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/81897c53addd868e2fcb9200a562cd911752683982_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND20W/puppet-fight-10-vs-100">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80W38/application-of-the-contract">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sakura and Granny Chiyo are engaged in a fierce battle with Sasori, who is able<br>turn himself into a human puppet. They somehow bring Sasori down within the time limit,<br>but he ends up reviving.</p>
+<p align="center">Kyle reunites with some old companions in new ways before making his first major play<br>to change the future.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Kazekage's Rescue (Telugu Dub) - Episode 27 - Impossible Dream</h3></th>
+<th><h3 align="center">New Saga (Thai Dub) - Episode 4 - The Perfect Start to a Heroic Tale</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3db55fd413ac2e79cc2d5e56f6db8c081229994961_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/600bba8ab4b8b36b8ae3f09981079c431753289449_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3MW4/impossible-dream">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXW58/the-perfect-start-to-a-heroic-tale">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Although stung with poison herself, Granny Chiyo uses the last of the antidote on Sakura.<br>Mocking the tender scene between Granny Chiyo and Sakura, Sasori attempts to end Granny Chiyo's<br>life.</p>
+<p align="center">To save the ill-fated Princess Milena, Kyle must brave a danger the likes of which<br>he's never faced before.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Kazekage's Rescue (Telugu Dub) - Episode 28 - Beasts:  Alive Again!</h3></th>
+<th><h3 align="center">New Saga (Thai Dub) - Episode 5 - Reunion at Dawn</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/eacabf1dc6a8c16bc3702d2ce7e5e33c1229995646_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9c8c9899d4ac0064f89877b77b4490bb1753892853_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZXGW/beasts-alive-again">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KZ32/reunion-at-dawn">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Team Guy senses the result of the Sakura and Granny Chiyo’s desperate struggle while still<br>in battle with his deadly copy. Although Guy’s team members are showing fatigue, their copies<br>remain strong!</p>
+<p align="center">Old friends become enemies as Kyle comes up with a plan to get Princess Milena<br>to safety.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Kazekage's Rescue (Telugu Dub) - Episode 29 - Kakashi Enlightened!</h3></th>
+<th><h3 align="center">I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic (Indonesian Dub) - Episode 9 - Liam Tries Talking to a Girl</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/19c93ba0e21a2746cc714b1de09410781229995839_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4b5450e15016fc77f7a33fe785dfb4f21740419368_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78E05/kakashi-enlightened">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ14V/liam-tries-talking-to-a-girl">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sakura hurries to get to Naruto with Granny Chiyo, who is suffering from the poison.<br>The members of Team Guy rush to assist Team Kakashi.</p>
+<p align="center">Lady Flora's visit is interrupted by an exploding monster.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Kazekage's Rescue (Telugu Dub) - Episode 20 - Hiruko vs. Two Kunoichi!</h3></th>
+<th><h3 align="center">I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic (Indonesian Dub) - Episode 10 - Liam Tries Creating and Playing in an Ocean</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/48c0a012ac0e332ddc1ad997b2b0cff91229993774_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/31c17877d753de578462d457a72bb1861741024203_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34M83/hiruko-vs-two-kunoichi">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV49Z7/liam-tries-creating-and-playing-in-an-ocean">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">At last, the showdown between the old woman and her grandson begins. Sakura is confused<br>by Sasori’s strange appearance, and Granny Chiyo explains that this is Hiruko…</p>
+<p align="center">Liam finds a way for his citizens to procure their own water and salt.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Kazekage's Rescue (Telugu Dub) - Episode 21 - Sasori's Real Face</h3></th>
+<th><h3 align="center">I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic (Indonesian Dub) - Episode 11 - Liam Tries Building a Magic City</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/22424b14a3f15e5060dc44cf160b44091229993743_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/26eaf0aed14e069b92e67b39de9eea6f1741617787_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E544/sasoris-real-face">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ29PN/liam-tries-building-a-magic-city">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Granny Chiyo and Sakura manage to expose Sasori, who amazingly looks no older than he<br>did twenty years earlier. Chiyo is even more shocked at the second puppet that Sasori<br>produces.</p>
+<p align="center">Liam stays in his kingdom while Jamil watches him to ensure he doesn't interfere with<br>the drought, so Jamil gets an idea.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Kazekage's Rescue (Telugu Dub) - Episode 22 - Chiyo's Secret Skills</h3></th>
+<th><h3 align="center">I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic (Indonesian Dub) - Episode 12 - The Kingdom of Liam Radon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/819635e3a0036796a2b3236bbb33ac451229993748_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bbea7c834f505d7e9d2da63440e3430d1742229971_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QJ28/chiyos-secret-skills">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND28K/the-kingdom-of-liam-radon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sakura is caught by Sasori’s tactic and surrounded by a poison cloud. But she uses<br>a Paper Bomb to blow herself free from the poisonous fumes.</p>
+<p align="center">The dragon knights of Quistador request an audience with Liam.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Kazekage's Rescue (Telugu Dub) - Episode 23 - Father and Mother</h3></th>
+<th><h3 align="center">I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic (Thai Dub) - Episode 11 - Liam Tries Building a Magic City</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6f5034ff904aa15c7cb619a722ce88351229994135_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/26eaf0aed14e069b92e67b39de9eea6f1741617787_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ1DG/father-and-mother">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVQ02/liam-tries-building-a-magic-city">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Chiyo and Sakura take cover, and Sasori wastes no time unleashing a ruthless attack. Chiyo<br>fights back to protect Sakura, but in an instant the Father and Mother puppets are<br>sealed by the Iron Sand.</p>
+<p align="center">Liam stays in his kingdom while Jamil watches him to ensure he doesn't interfere with<br>the drought, so Jamil gets an idea.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Kazekage's Rescue (Telugu Dub) - Episode 24 - The Third Kazekage</h3></th>
+<th><h3 align="center">I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic (Thai Dub) - Episode 12 - The Kingdom of Liam Radon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/67c84f779c5c479cc8657cf75afb08f31229994493_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bbea7c834f505d7e9d2da63440e3430d1742229971_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4958/the-third-kazekage">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGV89/the-kingdom-of-liam-radon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sakura counters the Iron Sand attack of the Third Kazekage puppet with superhuman strength. She<br>learned from Tsunade that the most important skill of a Medic Ninja is the ability<br>to evade an attack.</p>
+<p align="center">The dragon knights of Quistador request an audience with Liam.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Kazekage's Rescue (Telugu Dub) - Episode 15 - The Secret Weapon is Called….</h3></th>
+<th><h3 align="center">I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic (Indonesian Dub) - Episode 1 - Liam Tries Using Magic For the First Time</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/28ae4cbf6e9eb9b223e90f9aea553c5d1229994456_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ff9b06f0af4f3242045451d083c2a2e31736180901_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2026</td>
+<td align="center">7/14/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZXM0/the-secret-weapon-is-called">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZX3W/liam-tries-using-magic-for-the-first-time">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Granny Chiyo and Sakura  rescue Naruto from Itachi’s genjutsu. Without a moment’s delay, Kakashi<br>begins a counterattack.</p>
+<p align="center">Liam is an office worker in another world and does not know how he got<br>there. In this new realm, he takes over the body of Liam, the fifth son<br>of a noble family that's about to lose its status, although that doesn't concern him.<br>In this world, magic exists, and he can learn to wield it.</p>
 </td>
 </tr>
 </table>
