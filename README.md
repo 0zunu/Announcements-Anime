@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/0zunu/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Aug 10, 2026, 7:47:00 PM</em></p>
+<p align="center"><em>Updated on: Aug 11, 2026, 8:02:30 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/0zunu/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/0zunu/Announcements-Anime"></a> 
@@ -11,6 +11,230 @@
     <img align="center" src="https://github.com/0zunu/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/0zunu/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/0zunu/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Genshin V7.0 Trailer Videos - Episode 6 - Version 7.0 "Everwinter Without Mercy" Trailer | Genshin Impact</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3b242f6912cb87e41fb83478d1bee6e11785876896_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/10/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2NXW/version-70-everwinter-without-mercy-trailer-genshin-impact">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Death seeks out every forsaken night beneath the bitter cold, leaving only the sorrowful weeping<br>of souls behind.
+They weep for all they cherished in this world, and for the beautiful<br>dream they must leave behind.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Genshin V7.0 Trailer Videos - Episode 5 - Snezhnaya Ecology Teaser - "Laws of the Bitter Frost" | Genshin Impact</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a5d0bad6a4dd12bcfc1e9b57789a1fcf1785876882_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/10/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX248Z/snezhnaya-ecology-teaser-laws-of-the-bitter-frost-genshin-impact">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">In Snezhnaya, those who brave the cruel cold follow their own laws of survival.
+Every road<br>guided by the light of the polestar will, in the end, lead to the same<br>destination.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Genshin V7.0 Trailer Videos - Episode 1 - Teyvat Chapter Interlude Teaser: A Winter Night's Lazzo | Genshin Impact</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f7b694d68cfbc77b4ac2eefcf9c6d86b1785876817_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/10/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVQ5J/teyvat-chapter-interlude-teaser-a-winter-nights-lazzo-genshin-impact">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">No one knows how long it has been since all the Fatui Harbingers last gathered.
+On<br>this winter night, people donning masks who had just been singing and squabbling, fell silent<br>in mournful meditation.
+Only then did the hall join the winter sky in infinite silence.
+Meanwhile, in<br>distant Sumeru, Collei who has not had dreams for a long time, saw strange visions<br>during her midday nap...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Genshin V7.0 Trailer Videos - Episode 2 - "The Final Gift" Animated Short | Genshin Impact</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d7b1df313e3b03f6a5fa3cb354d5e0b91785876831_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/10/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGVKJ/the-final-gift-animated-short-genshin-impact">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Here lies
+Alain Guillotin
+Founding Director of the Research Institute of Kinetic Energy Engineering
+White Cavalier of Protection
+Lord-Artificer
+May<br>the waters protect his soul
+May he be troubled by suffering no more
+May the waters guide<br>his soul
+Safely across to the other shore
+"Regrettably, there's nothing more to say."</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Genshin V7.0 Trailer Videos - Episode 3 - Snezhnaya Preview Teaser - "Frozen Tundra Shrouded in Wind and Snow" | Genshin Impact</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a9a21a91705395a020828866dec88b7b1785876841_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/10/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZXQQ/snezhnaya-preview-teaser-frozen-tundra-shrouded-in-wind-and-snow-genshin-impact">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">On this vast frozen tundra, any turmoil or crisis that stirs in the shadows shall<br>ultimately be swallowed by the wind and snow.
+But change will eventually come, before all things<br>truly fall into the silence of eternity.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Genshin V7.0 Trailer Videos - Episode 4 - Transcendence Trailer - "Sudden Snow" | Genshin Impact</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7ff3671d1421f12570083b7d02fa6fb71785876853_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/10/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78E1D/transcendence-trailer-sudden-snow-genshin-impact">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sleep well, sleep well, children of this world...
+Fear neither the dark nor the deathly stillness,
+For<br>the divine has promised you unconditional love.
+Awaken, awaken, O storm with neither root nor source!
+If<br>blessings are so generous, so selfless,
+Then why has mercy never reached the winter?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 3 - Episode 7 - Hatsune Miku’s New Magic: The Gathering Deck Is Pure Anime Joy</h3></th>
 </tr>
@@ -479,210 +703,6 @@
 <tr>
 <td colspan="2">
 <p align="center">The village holds a festival. Maomao attends, and Shisui introduces some of the village's history<br>to her.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 44 - The Stronghold</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4855905bceedac06455b5b63a4d9b9381748623687_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZX5Q/the-stronghold">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Maomao is taken to a mountain stronghold, where many of the secrets of the Shi<br>clan are revealed to her.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 25 - Maomao and Maomao</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dcd8594821409d91f04889eecfb9b8281736524318_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMND7D/maomao-and-maomao">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The spring garden party concludes without incident. Maomao returns to her regular life as Concubine<br>Gyokuyou’s taster. Meanwhile, novels become popular in the rear palace. Maomao wonders how this came<br>to be, as novels were typically considered low-class. But behind the scenes lies Jinshi and<br>his goals as manager of the rear palace.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 26 - Caravan</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/534d2fd94aec6ae647f2670509137d031737129686_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZX9D/caravan">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The caravan stirs up excitement in the inner palace. The merchants bring all kinds of<br>goods. However, something gives Maomao a bad feeling.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 27 - Corpse Fungus</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/066f609a9d274d993b46126a3ea730991737721646_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34MQ7/corpse-fungus">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">A concubine passes away, and a woman goes missing. Jinshi sends Maomao to investigate -<br>not these incidents, but mushrooms growing in the rear palace.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 28 - Mirror</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fbb607f88350ea5aa90de69a454f53ef1738339602_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E53Z/mirror">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The special envoy from a foreign land gifts mirrors - a rarity in this country<br>- to the high concubines. However, they bring mysteries as well.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 29 - The Moon Fairy</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b65eb9ac72c75cc25c47f1056e14f4bb1738945870_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QJ0M/the-moon-fairy">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">In order to realize the seemingly impossible request from the foreign envoy, Maomao speaks to<br>the “Moon Fairy” herself.</p>
 </td>
 </tr>
 </table>
