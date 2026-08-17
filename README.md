@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/0zunu/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Aug 17, 2026, 7:43:01 AM</em></p>
+<p align="center"><em>Updated on: Aug 17, 2026, 7:24:12 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/0zunu/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/0zunu/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/0zunu/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/0zunu/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 3 - Episode 8 - How Anime Is Changing American Superheroes ft. Kyle Higgins</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 174 - Tale of Naruto Uzumaki</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/db6fb9ee9d92cf8524e30cbf250cb1fa1786732391_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2c268d87adb219a91c03551c4db2ff881282010351_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/14/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNJPK/how-anime-is-changing-american-superheroes-ft-kyle-higgins">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQV9M/tale-of-naruto-uzumaki">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kyle Higgins joins The Anime Effect to explore how anime and tokusatsu are reshaping American<br>superheroes. The writer of Radiant Black, Mighty Morphin Power Rangers, Ultraman, Nightwing, and Teen Titans<br>breaks down what Hollywood can learn from transformation sequences, legacy heroes, and more. Plus, we<br>talk Attack on Titan’s impact on Expedition 33, Crunchyroll x Genshin Impact's huge collaboration, Hello<br>Kitty’s Godzilla Happy Meal takeover, and the anime we’re watching this week.</p>
+<p align="center">Naruto remains silent after learning of Nagato’s painful past. Nagato claims true peace cannot exist<br>in this cursed world, dismissing Jiraiya’s ideal as nothing more than wishful thinking.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan: THE LAST ATTACK (Polish Dub) - Attack on Titan: THE LAST ATTACK</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 175 - Hero of the Hidden Leaf</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9287112153f4a45e53c0e6ba535362f51744915385_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3d6c11af8065f00ac253922a69a9b3321282619668_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/12/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2038/attack-on-titan-the-last-attack">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV41DE/hero-of-the-hidden-leaf">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Eren’s apocalyptic rumbling begins and a motley crew unites in desperation for one final mission<br>to stop him.</p>
+<p align="center">Nagato, having decided to believe in Naruto’s word, performs his last forbidden jutsu: Gedo Art<br>Rinne Rebirth.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Genshin V7.0 Trailer Videos - Episode 7 - Character Teaser - "Odette: An Illusion of Gentle Snow" | Genshin Impact</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 169 - The Two Students</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5c3626e3e1444f59f46eec8239e98c0c1786378373_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7293af92443ed21d7cc9c6b2b37bbf991279681497_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,18 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/10/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNKMW/character-teaser-odette-an-illusion-of-gentle-snow-genshin-impact">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNKPZ/the-two-students">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Her life unfolds like the dance of a waterbird.
-When at last she breaks free from<br>the frozen lake's cruel grasp, her white wings shall carry her skyward.</p>
+<p align="center">To break the cycle of hate, Naruto heads to where the real Pain is hiding.</p>
 </td>
 </tr>
 </table>
@@ -115,12 +114,12 @@ When at last she breaks free from<br>the frozen lake's cruel grasp, her white wi
 
 <table align="center">
 <tr>
-<th><h3 align="center">Genshin V7.0 Trailer Videos - Episode 6 - Version 7.0 "Everwinter Without Mercy" Trailer | Genshin Impact</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 170 - Big Adventure! The Quest for the Fourth Hokage’s Legacy – Part 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3b242f6912cb87e41fb83478d1bee6e11785876896_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/15f3c9ddf188385d624d8eb8732c25f21280183404_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -129,18 +128,17 @@ When at last she breaks free from<br>the frozen lake's cruel grasp, her white wi
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/10/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2NXW/version-70-everwinter-without-mercy-trailer-genshin-impact">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZDMV/big-adventure-the-quest-for-the-fourth-hokages-legacy-part-1">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Death seeks out every forsaken night beneath the bitter cold, leaving only the sorrowful weeping<br>of souls behind.
-They weep for all they cherished in this world, and for the beautiful<br>dream they must leave behind.</p>
+<p align="center">The story goes back to right before the start of the final rounds of the<br>Chunin Exam. As Naruto trains in preparation for his upcoming match, he hears Jiraiya speak<br>of “the Fourth Hokage’s legacy.”</p>
 </td>
 </tr>
 </table>
@@ -150,12 +148,12 @@ They weep for all they cherished in this world, and for the beautiful<br>dream t
 
 <table align="center">
 <tr>
-<th><h3 align="center">Genshin V7.0 Trailer Videos - Episode 5 - Snezhnaya Ecology Teaser - "Laws of the Bitter Frost" | Genshin Impact</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 171 - Big Adventure! The Quest for the Fourth Hokage’s Legacy – Part 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a5d0bad6a4dd12bcfc1e9b57789a1fcf1785876882_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/60eedd15d692c33f849e30c7cb0a888c1280194483_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -164,18 +162,17 @@ They weep for all they cherished in this world, and for the beautiful<br>dream t
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/10/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX248Z/snezhnaya-ecology-teaser-laws-of-the-bitter-frost-genshin-impact">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU341EG/big-adventure-the-quest-for-the-fourth-hokages-legacy-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In Snezhnaya, those who brave the cruel cold follow their own laws of survival.
-Every road<br>guided by the light of the polestar will, in the end, lead to the same<br>destination.</p>
+<p align="center">Naruto and the others take on the oncoming challenges in order to find the secret<br>technique and break the previous record set by the Fourth Hokage. But Naruto’s impulsive action<br>leads the group into various troubles.</p>
 </td>
 </tr>
 </table>
@@ -185,12 +182,12 @@ Every road<br>guided by the light of the polestar will, in the end, lead to the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">Genshin V7.0 Trailer Videos - Episode 1 - Teyvat Chapter Interlude Teaser: A Winter Night's Lazzo | Genshin Impact</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 172 - Meeting</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f7b694d68cfbc77b4ac2eefcf9c6d86b1785876817_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f4b18173777dceb28b043db32cf40d301280860667_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -199,20 +196,17 @@ Every road<br>guided by the light of the polestar will, in the end, lead to the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/10/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVQ5J/teyvat-chapter-interlude-teaser-a-winter-nights-lazzo-genshin-impact">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9EMJW/meeting">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">No one knows how long it has been since all the Fatui Harbingers last gathered.
-On<br>this winter night, people donning masks who had just been singing and squabbling, fell silent<br>in mournful meditation.
-Only then did the hall join the winter sky in infinite silence.
-Meanwhile, in<br>distant Sumeru, Collei who has not had dreams for a long time, saw strange visions<br>during her midday nap...</p>
+<p align="center">Naruto comes face to face with Nagato and Konan. Naruto, wanting to confront the problem<br>of their hate-filled ninja world, asks to hear Nagato’s side of the story before coming<br>up with an answer.</p>
 </td>
 </tr>
 </table>
@@ -222,12 +216,12 @@ Meanwhile, in<br>distant Sumeru, Collei who has not had dreams for a long time, 
 
 <table align="center">
 <tr>
-<th><h3 align="center">Genshin V7.0 Trailer Videos - Episode 2 - "The Final Gift" Animated Short | Genshin Impact</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 173 - Origin of Pain</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d7b1df313e3b03f6a5fa3cb354d5e0b91785876831_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e3e6c8d63e0680ea407c2bd74be639451281476940_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -236,26 +230,17 @@ Meanwhile, in<br>distant Sumeru, Collei who has not had dreams for a long time, 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/10/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGVKJ/the-final-gift-animated-short-genshin-impact">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QWXD/origin-of-pain">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Here lies
-Alain Guillotin
-Founding Director of the Research Institute of Kinetic Energy Engineering
-White Cavalier of Protection
-Lord-Artificer
-May<br>the waters protect his soul
-May he be troubled by suffering no more
-May the waters guide<br>his soul
-Safely across to the other shore
-"Regrettably, there's nothing more to say."</p>
+<p align="center">To fulfill their dream, Nagato, Yahiko, and Konan walk through the war zone in search<br>of Jiraiya, hoping to learn ninjutsu from him. After completing their training, the three form<br>an organization with Yahiko as its leader.</p>
 </td>
 </tr>
 </table>
@@ -265,12 +250,12 @@ Safely across to the other shore
 
 <table align="center">
 <tr>
-<th><h3 align="center">Genshin V7.0 Trailer Videos - Episode 3 - Snezhnaya Preview Teaser - "Frozen Tundra Shrouded in Wind and Snow" | Genshin Impact</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 164 - Danger! Sage Mode Limit Reached</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a9a21a91705395a020828866dec88b7b1785876841_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d90f03e672afa7576e857768051c43b01276050721_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -279,18 +264,17 @@ Safely across to the other shore
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/10/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZXQQ/snezhnaya-preview-teaser-frozen-tundra-shrouded-in-wind-and-snow-genshin-impact">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV3K9/danger-sage-mode-limit-reached">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On this vast frozen tundra, any turmoil or crisis that stirs in the shadows shall<br>ultimately be swallowed by the wind and snow.
-But change will eventually come, before all things<br>truly fall into the silence of eternity.</p>
+<p align="center">Naruto hits Pain with his Sage Jutsu-perfected Wind Style Rasen Shuriken. Although he succeeds in<br>defeating Ningendo, the remaining Pain quickly confronts him.</p>
 </td>
 </tr>
 </table>
@@ -300,12 +284,12 @@ But change will eventually come, before all things<br>truly fall into the silenc
 
 <table align="center">
 <tr>
-<th><h3 align="center">Genshin V7.0 Trailer Videos - Episode 4 - Transcendence Trailer - "Sudden Snow" | Genshin Impact</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 165 - Nine Tails, Captured!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7ff3671d1421f12570083b7d02fa6fb71785876853_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fd96d031465dacbf324f1a43c58fb9171276648267_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -314,22 +298,17 @@ But change will eventually come, before all things<br>truly fall into the silenc
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/10/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78E1D/transcendence-trailer-sudden-snow-genshin-impact">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMG3J0/nine-tails-captured">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sleep well, sleep well, children of this world...
-Fear neither the dark nor the deathly stillness,
-For<br>the divine has promised you unconditional love.
-Awaken, awaken, O storm with neither root nor source!
-If<br>blessings are so generous, so selfless,
-Then why has mercy never reached the winter?</p>
+<p align="center">Gamabunta and the other toads are defeated while Naruto is captured by Pain. Naruto attempts<br>to fight back with Sage Jutsu, but Gakido sucks out his chakra, forcing him to<br>go out of Sage Mode.</p>
 </td>
 </tr>
 </table>
@@ -339,12 +318,12 @@ Then why has mercy never reached the winter?</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 3 - Episode 7 - Hatsune Miku’s New Magic: The Gathering Deck Is Pure Anime Joy</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 166 - Confessions</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c2a69198232fd2df41fc582d09e593001786146778_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9404a38cc12421665cbfbee77b8ae33e1277239475_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -353,17 +332,17 @@ Then why has mercy never reached the winter?</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/7/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2Z94/hatsune-mikus-new-magic-the-gathering-deck-is-pure-anime-joy">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZVPD/confessions">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hatsune Miku has officially entered the Magic: The Gathering battlefield. Designer Carmen Klomparens joins The<br>Anime Effect to break down her new Secret Lair Commander deck, plus we get into<br>Spider-Man’s anime takeover, Gachiakuta Season 2, Evangelion hitting Criterion, and a new MHA special.</p>
+<p align="center">Fukasaku and Shima fall in battle, leaving Naruto open to be captured by Tendo Pain.<br>Just when all is thought to be lost, Hinata, who was following the battle with<br>her Byakugan, steps in to face Pain.</p>
 </td>
 </tr>
 </table>
@@ -373,12 +352,12 @@ Then why has mercy never reached the winter?</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 45 - Taibon</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 167 - Planetary Devastation</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/04a6ed5db2e73d5d4cc406ade92edb471749226051_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/da4e4e0bb296d935cbd3f720638d5bb91277838563_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -387,17 +366,17 @@ Then why has mercy never reached the winter?</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78EDD/taibon">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78JX8/planetary-devastation">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maomao is accused of attempting to escape, and is tossed into an ancient method of<br>torture and execution.</p>
+<p align="center">Naruto loses himself after seeing Hinata taken out right before his eyes. His anger <br>triggers the Nine Tails’ chakra to go out of control.</p>
 </td>
 </tr>
 </table>
@@ -407,12 +386,12 @@ Then why has mercy never reached the winter?</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 46 - Royal Guard</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 168 - Fourth Hokage</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6f5547c8cf0bf16af678f001f4b76ef91749828530_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ab79628766663d57c7e142ae352178ea1278616571_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -421,17 +400,17 @@ Then why has mercy never reached the winter?</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX24GZ/royal-guard">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2N9X/fourth-hokage">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The royal guard, led by Jinshi, arrives, sealing the Shi clan's fate. Maomao wants to<br>save her friend, Shisui.</p>
+<p align="center">Naruto meets Minato Namikaze, the Fourth Hokage, inside his inner world. Before his death, Minato<br>planted a fail-safe where he would appear within Naruto’s psyche should his son sprout eight<br>tails.</p>
 </td>
 </tr>
 </table>
@@ -441,12 +420,12 @@ Then why has mercy never reached the winter?</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 47 - The Shi Clan</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 159 - Pain vs Kakashi</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e3c0ecacad4d061e52f12e9dc7a92e3f1751029483_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/91d1c3b5ef45d53f3626aba530dd2b7a1272948969_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -455,17 +434,17 @@ Then why has mercy never reached the winter?</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMND8D/the-shi-clan">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX4D9/pain-vs-kakashi">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinshi and his forces infiltrate the stronghold, cornering the remaining Shi clan members.</p>
+<p align="center">In one area of the village, Kakashi enters battle against Tendo Pain, but he can’t<br>keep up with Tendo’s mysterious attacks. Shurado joins the fight, and Kakashi struggles with the<br>two-on-one disadvantage.</p>
 </td>
 </tr>
 </table>
@@ -475,12 +454,12 @@ Then why has mercy never reached the winter?</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 48 - The Beginning</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 160 - Mystery of Pain</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/684f1e23301186ac476d81dccfcf0d9f1751641470_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/dc3bbcfa32a36fca870f5030395617f11273632579_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -489,17 +468,17 @@ Then why has mercy never reached the winter?</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZXED/the-beginning">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KV4D/mystery-of-pain">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After the war, Jinshi's work piles up and Maomao returns to the pleasure district.</p>
+<p align="center">The Leaf Village is under heavy attack from the Akatsuki. Underneath the village Danzo takes<br>action to achieve his ambition. Meanwhile, searching through the Rain ninja’s mind, Inoichi Yamanaka is<br>about to stumble upon valuable information.</p>
 </td>
 </tr>
 </table>
@@ -509,12 +488,12 @@ Then why has mercy never reached the winter?</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 35 - The Hunt</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 161 - Surname is Sarutobi! Given Name, Konohamaru!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/71d821fdc41ec5bd48b78355a6b197e61742573588_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cb90c34b0ec58532dc61ebb3c34883091274237694_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -523,17 +502,17 @@ Then why has mercy never reached the winter?</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEXQVN/the-hunt">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0GW4/surname-is-sarutobi-given-name-konohamaru">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinshi goes on a hunting trip, and brings Maomao along. He seems ready to share<br>his secret with her.</p>
+<p align="center">Konohamaru, Moegi, and Udon are shocked to see the disaster that has struck their home<br>village. But to fulfill their duties as genin, each races out to direct the villagers<br>to a safe location.</p>
 </td>
 </tr>
 </table>
@@ -543,12 +522,12 @@ Then why has mercy never reached the winter?</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 36 - Ka Zuigetsu</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 162 - Pain to the World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0a38f519fcc61a0b06277ab8de972b441743172143_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a35524e2e1a296251dda2063b32d91441274916769_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -557,17 +536,17 @@ Then why has mercy never reached the winter?</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80W9D/ka-zuigetsu">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N181/pain-to-the-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maomao discovers Jinshi's secret. She wants nothing to do with whatever the politcs behind it<br>is.</p>
+<p align="center">Tsunade comes face to face with Tendo Pain on the rooftop of the Hokage mansion.<br>When Pain demands the Nine Tails be handed over, Tsunade refuses. However, Pain uses the<br>Ningendo’s power to learn of Naruto’s current location in Mount Myoboku. Tsunade clenches at the<br>sight of the growing number of casualties within the Leaf. But Pain, who condemns the<br>Leaf’s arrogance as a major nation, makes the choice to deliver catastrophic damage against the<br>Leaf Village to teach them what true pain is.</p>
 </td>
 </tr>
 </table>
@@ -577,12 +556,12 @@ Then why has mercy never reached the winter?</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 37 - The Baths</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 163 - Explosion! Sage Mode</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dec082d6da739511093952f79639f79b1743764428_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/64181e9be0131560b6ca06114ed1227e1275523344_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -591,17 +570,17 @@ Then why has mercy never reached the winter?</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXW9P/the-baths">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVE8G/explosion-sage-mode">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Xiaolan's term of service is almost up, so she must find a new job. Maomao<br>and Shisui decide to help.</p>
+<p align="center">Sensing danger at hand, Naruto, along with Fukasaku, rushes back to the Leaf Village from<br>Mount Myoboku. But what they see is the remains of the Leaf Village, leveled beyond<br>recognition.</p>
 </td>
 </tr>
 </table>
@@ -611,12 +590,12 @@ Then why has mercy never reached the winter?</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 38 - The Dancing Ghost</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 154 - Decryption</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/23b2f1547473283035ff16100961cbe21744388803_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c06448cd24aec4a3f0b86a8180a30ce41270585969_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -625,17 +604,17 @@ Then why has mercy never reached the winter?</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KZG0/the-dancing-ghost">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ20G8/decryption">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Concubine Lishu reports sightings of a ghost in the baths in her pavilion. Maomao goes<br>to investigate.</p>
+<p align="center">Naruto and his friends successfully decipher the code Jiraiya left behind with the help of<br>some information Naruto has. The crew immediately calls Fukasaku over, but the message is not<br>enough to solve the mystery of Pain.</p>
 </td>
 </tr>
 </table>
@@ -645,12 +624,12 @@ Then why has mercy never reached the winter?</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 39 - Ice</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 155 - The First Challenge</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/07a1d7b71fae297e02a34d1de3211c231744989687_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f22cb1a1bfe7f428c93a17b406dc45d01270585982_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -659,17 +638,17 @@ Then why has mercy never reached the winter?</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN04Q3/ice">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND19P/the-first-challenge">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Xiaolan accidentally ruins an expensive block of ice. Maomao comes up with a delicious backup<br>plan.</p>
+<p align="center">At Mount Myoboku, Naruto begins his Sage Jutsu training under Fukasaku. The first challenge is<br>“Don’t move.” Fukasaku explains that an extensive amount of time is necessary in order to<br>take in nature energy.</p>
 </td>
 </tr>
 </table>
@@ -679,12 +658,12 @@ Then why has mercy never reached the winter?</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Polish Dub) - Episode 40 - Festering Resentment</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 156 - Surpassing the Master</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/de5892a568267d7e29dd7495df6d72401745592100_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/479f0d480a1ee3d115f6d5d3e0541c3c1271185970_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -693,17 +672,17 @@ Then why has mercy never reached the winter?</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/5/2026</td>
+<td align="center">8/17/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NGME/festering-resentment">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3K00/surpassing-the-master">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Luomen returns to the rear palace. His observations trigger Maomao's curiosity.</p>
+<p align="center">Naruto continues his Sage training at Mount Myoboku, but with very slow progress. Fukasaku runs<br>out of patience and suggests they move on to the next training…</p>
 </td>
 </tr>
 </table>
