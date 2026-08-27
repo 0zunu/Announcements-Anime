@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/0zunu/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Aug 26, 2026, 7:32:31 PM</em></p>
+<p align="center"><em>Updated on: Aug 27, 2026, 12:55:05 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/0zunu/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/0zunu/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/0zunu/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/0zunu/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">ZENSHU (Thai Dub) - Episode 6 - CHANGE</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 58 - Attack Titan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/be01beebec9b4205c17f0e98bef8f5511739096567_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a4f749bd8382e4b09aad9daffd5055bb1561322638_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/25/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9EM30/change">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N1ZW/attack-titan">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsuko loses to the Voids for the first time, but still tries to continue her<br>selfish actions.</p>
+<p align="center">Eren learns how all paths connect in the story that his father began. If Grisha<br>is to pay for his sins, he must fight for freedom and take a stand.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">ZENSHU (Thai Dub) - Episode 7 - FIRST LOVE</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 59 - The Other Side of the Wall</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/67312c091b79d41251a697309015f7351739719273_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6713305bb66e55f778db2153fe3c20bf1561940629_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/25/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QWZ1/first-love">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVEZJ/the-other-side-of-the-wall">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsuko tries to figure out exactly what first love feels like for her upcoming film.</p>
+<p align="center">Though it's met with hope and despair, the truth is made public. The Scouts then<br>venture beyond the walls to see if it's everything they dreamed of.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">ZENSHU (Thai Dub) - Episode 8 - CONFESSION</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 48 - Bystander</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a538673992a24b36fed32547a90367fd1740322529_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e9eb3f704154df63cb54cd99f2e396931538921588_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/25/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQV80/confession">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQVN0/bystander">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Luke finally tells Natsuko how he really feels about her.</p>
+<p align="center">Having seen a glimpse of his father's memories, Eren attempts to track down a man<br>hoping they might shed some light on his father's secrets.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">ZENSHU (Thai Dub) - Episode 9 - HERO</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 49 - Night of the Battle to Retake the Wall</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0466734485f64b974844808cf89944991740930430_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ac905a9d96febd421b2fbb2bd137273c1539511269_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/25/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV41GP/hero">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV41NP/night-of-the-battle-to-retake-the-wall">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Luke thinks about his life as the legendary hero.</p>
+<p align="center">The Scouts gather for a feisty feast before leaving to retake Wall Maria to uncover<br>what's hidden in the basement once and for all.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">ZENSHU (Thai Dub) - Episode 10 - CHAOS</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 50 - The Town Where Everything Began</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/25701cfa682fc7a0a1ca7f8beeae5aec1741527231_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/328f563ae2a81d43520f380e1dbe2ba91556432883_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/25/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ20E2/chaos">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ20Z2/the-town-where-everything-began">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rumors start to spread about Natsuko which leads the people of the Last Town to<br>turn on her.</p>
+<p align="center">The operation to retake Wall Maria commences in Shiganshina, the town where everything began. But<br>when the Scouts arrive, something seems very wrong.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">ZENSHU (Thai Dub) - Episode 11 - DESPAIR</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 51 - Thunder Spears</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a86eb4d9ff04c88dd002d0a9f1168cc21742136629_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f2e0ee3a1dbb05046ae37490f890e4f21557056448_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/25/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND1VN/despair">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND1QN/thunder-spears">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Luke suffers more loss and falls into despair while Memmeln comes up with a certain<br>plan with Meg and Sally.</p>
+<p align="center">Against a rush of enemies, the Scouts scramble to defend their horses. But despite falling<br>into a trap, they have their own surprise for the Armored Titan.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">ZENSHU (Thai Dub) - Episode 12 - ZENSHU</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 52 - Descent</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bcf8eb8469f0ff4cb5e176de58002a141742735611_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2e36a7defa9694a212aaa26b200109d21557673116_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/25/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3KDW/zenshu">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3K1W/descent">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsuko has to draw one final thing to save the Last Town from its greatest<br>threat.</p>
+<p align="center">Though their Thunder Spears prove effective, the Scouts' celebration is short-lived as disaster descends upon<br>Shiganshina.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">ZENSHU (Thai Dub) - Episode 1 - FIRST STROKE</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 53 - Perfect Game</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7c4a580dc89d93d077252f7fb225c17d1736074866_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5cacf7aeb029825da15652740d1f36ce1558279231_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/25/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78JD1/first-stroke">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEXPKD/perfect-game">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">An up-and-coming anime director, Natsuko Hirose, is busy trying to storyboard a rom-com themed feature<br>film, but because she's never experienced first love, she can't seem to progress with her<br>storyboards.</p>
+<p align="center">While one front in the battle is rained on by flames, the other is battered<br>by boulders. With no way out, the Scouts are forced to fight or die trying.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">ZENSHU (Thai Dub) - Episode 2 - DEFEND</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 54 - Hero</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/75eec0fb5703a996ec28c9684387f27a1736682347_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7385376881794960b527bd1f97f92ff21558902273_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/25/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2NGG/defend">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU807K3/hero">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The prophet of the Last Town, Elder Baobab, decides that Natsuko should join the Nine<br>Soldiers, but her and Luke are at odds. Natsuko tries to figure out a way<br>back home, but then remembers what happens next in "A Tale of Perishing" and realizes<br>everyone's in danger again.</p>
+<p align="center">As Erwin's heroic charge buys Levi time to confront the Beast Titan, Armin comes up<br>with a plan of his own that lays it all on the line.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">ZENSHU (Thai Dub) - Episode 3 - DESTINY</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 55 - Midnight Sun</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ab2761e24821098dbd513737db31b35e1737292214_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3f288861f03d9538d342855139c322e71559516204_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/25/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNK8J/destiny">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX4GM/midnight-sun">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Last Town has their Harvest Festival and the Nine Soldiers get some time off.<br>That's where Luke meets Destiny. In "A Tale of Perishing," the two fall in love,<br>but Natsuko coming into the this world seems to be throwing off that destiny...</p>
+<p align="center">While picking up the pieces from the costly battle, tensions rise when deciding which of<br>the wounded Scouts to use the single syringe on.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">ZENSHU (Thai Dub) - Episode 4 - ETERNITY</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 56 - The Basement</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/14ae898263c06fb2b1851117d4520a161737907294_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a487ae5f50260859ae587418f53f68501560126406_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/25/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZDEX/eternity">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KVPQ/the-basement">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsuko notices that Memmeln is acting strange. In the movie, there is a scene with<br>Memmeln that's a mystery even to fans, so Natsuko tails her...</p>
+<p align="center">The secrets hidden in Grisha's basement await in the ruins of Shiganshina. There, the Scouts<br>hope to find answers to the world worth more than the price they paid.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">ZENSHU (Thai Dub) - Episode 5 - JUSTICE</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 57 - That Day</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e452d165dde1824ab16868917260a3301738501835_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/914b753bfd31868515ac2901569073b41560712044_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/25/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34191/justice">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0GE5/that-day">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Destiny asks the Nine Soldiers to bring food to some orphans and they run into<br>a former Nine Soldier, Justice.</p>
+<p align="center">A look into Grisha's memories shows Eren the many secrets his father was hiding, including<br>one which led to his mother's demise.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Detective Conan - Episode 1210 - The Cursed Neighbor's House</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 38 - Smoke Signal</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/72797d6b3438cfa4983a3de9cb8350271785444864_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3b94749042f9fc0ec08bcd688bf7b9fe1532256356_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/22/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78QZW/the-cursed-neighbors-house">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND1EP/smoke-signal">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A woman demands that her family move away because their neighbor's house is cursed.</p>
+<p align="center">After barely surviving Eren's recovery, a rising threat from the shadows puts everyone's lives in<br>danger again.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 3 - Episode 9 - Kingdom Hearts Anime Is Finally Happening, Don’t Panic</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 39 - Pain</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0f50664e3b467fd7ab3619e8daa44a181787270143_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a2d6e8cf6353edad325dfd90d68076941532880909_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/21/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZNM7/kingdom-hearts-anime-is-finally-happening-dont-panic">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3KJ0/pain">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kingdom Hearts is finally getting an anime, and yes, we are so serious about it.<br>The Anime Effect is breaking down the Kingdom Hearts anime for Disney+ and Disney Channel,<br>why Sora’s story is such a massive deal to gamers, and what took this show<br>so long. Plus, we review Krispy Kreme’s Pokémon donuts, dive into The Apothecary Diaries Season<br>3, celebrate Witch Hat Atelier’s Astra TV Award win, and more.</p>
+<p align="center">The Scouts take a stand against a new enemy, but it's not just Titans they'll<br>be fighting anymore.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Akira | Trailer - Akira | Trailer</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 40 - Old Story</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8bb4cdfda85f96115c41fd44932435281786577815_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b075e6e3d2b6f8bdbb934b53facc06461533466475_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/20/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZV5P/akira-trailer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZVPP/old-story">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Only in Theatres September 4</p>
+<p align="center">Historia and Erwin look back on their past, revealing a shady government with a hidden<br>agenda and inspiration for an uprising.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 174 - Tale of Naruto Uzumaki</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 41 - Trust</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2c268d87adb219a91c03551c4db2ff881282010351_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4a5c95280a10d45b2f2480c5a5d028a01534058707_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/17/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQV9M/tale-of-naruto-uzumaki">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78JX1/trust">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Naruto remains silent after learning of Nagato’s painful past. Nagato claims true peace cannot exist<br>in this cursed world, dismissing Jiraiya’s ideal as nothing more than wishful thinking.</p>
+<p align="center">On the run and running out of time, the Scouts must entrust their lives to<br>others if they plan on surviving.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 175 - Hero of the Hidden Leaf</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 42 - Reply</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3d6c11af8065f00ac253922a69a9b3321282619668_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0dc0288cc40e288992e937fa1afc30781534665786_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/17/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV41DE/hero-of-the-hidden-leaf">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2N9G/reply">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nagato, having decided to believe in Naruto’s word, performs his last forbidden jutsu: Gedo Art<br>Rinne Rebirth.</p>
+<p align="center">Erwin pleads his case for the Scouts to be spared, but an unforeseen announcement puts<br>the fate of humanity at risk.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 169 - The Two Students</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 43 - Sin</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7293af92443ed21d7cc9c6b2b37bbf991279681497_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3ee98be403b46d3cfe5ab9545b0e48bb1535267389_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/17/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNKPZ/the-two-students">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNKPJ/sin">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To break the cycle of hate, Naruto heads to where the real Pain is hiding.</p>
+<p align="center">While sins of the past reveal new truths, both sides prepare for the upcoming showdown<br>before they run out of time.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 170 - Big Adventure! The Quest for the Fourth Hokage’s Legacy – Part 1</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 44 - Wish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/15f3c9ddf188385d624d8eb8732c25f21280183404_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/80fc13fe096dbfb57bacfe605c588f091535869982_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/17/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZDMV/big-adventure-the-quest-for-the-fourth-hokages-legacy-part-1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZDMX/wish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The story goes back to right before the start of the final rounds of the<br>Chunin Exam. As Naruto trains in preparation for his upcoming match, he hears Jiraiya speak<br>of “the Fourth Hokage’s legacy.”</p>
+<p align="center">As battle breaks out to prevent the ritual, Historia makes a shocking decision which leads<br>to catastrophe.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Two Saviors (Telugu Dub) - Episode 171 - Big Adventure! The Quest for the Fourth Hokage’s Legacy – Part 2</h3></th>
+<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 45 - Outside the Walls of Orvud District</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/60eedd15d692c33f849e30c7cb0a888c1280194483_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/97dd79354c7eb4b90ec609502dd296731536478052_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/17/2026</td>
+<td align="center">8/26/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU341EG/big-adventure-the-quest-for-the-fourth-hokages-legacy-part-2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU341E1/outside-the-walls-of-orvud-district">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Naruto and the others take on the oncoming challenges in order to find the secret<br>technique and break the previous record set by the Fourth Hokage. But Naruto’s impulsive action<br>leads the group into various troubles.</p>
+<p align="center">When everything falls apart, Eren must believe in himself to save his friends. But Eren<br>alone may not be enough to stop the impending doom.</p>
 </td>
 </tr>
 </table>
