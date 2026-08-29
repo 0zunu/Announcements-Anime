@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/0zunu/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Aug 29, 2026, 4:35:52 AM</em></p>
+<p align="center"><em>Updated on: Aug 29, 2026, 11:53:51 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/0zunu/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/0zunu/Announcements-Anime"></a> 
@@ -11,6 +11,40 @@
     <img align="center" src="https://github.com/0zunu/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/0zunu/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/0zunu/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 3 - Episode 10 - The Real Anime Story Behind Scott Pilgrim w/ Bryan Lee O’Malley</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5e85e3e525864c320d9d86d70efe66751787876833_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/28/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34JQP/the-real-anime-story-behind-scott-pilgrim-w-bryan-lee-omalley">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Scott Pilgrim creator Bryan Lee O’Malley joins The Anime Effect to unpack the anime and<br>manga roots behind his hit series, his history with SCIENCE SARU, and his return to<br>Scott Pilgrim with a brand-new comic. Plus, we break down anime's growing footprint in theme<br>parks, One Piece’s new movies, Charles Melton’s Naruto casting, and the anime we’re watching this<br>week.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 58 - Attack Titan</h3></th>
 </tr>
@@ -649,40 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">As battle breaks out to prevent the ritual, Historia makes a shocking decision which leads<br>to catastrophe.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 45 - Outside the Walls of Orvud District</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/97dd79354c7eb4b90ec609502dd296731536478052_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU341E1/outside-the-walls-of-orvud-district">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">When everything falls apart, Eren must believe in himself to save his friends. But Eren<br>alone may not be enough to stop the impending doom.</p>
 </td>
 </tr>
 </table>
