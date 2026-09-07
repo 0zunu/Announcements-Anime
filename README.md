@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/0zunu/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 7, 2026, 9:01:22 AM</em></p>
+<p align="center"><em>Updated on: Sep 7, 2026, 11:54:18 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/0zunu/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/0zunu/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/0zunu/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/0zunu/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Detective Conan - Episode 1212 - The Birdman Rally Bombing (Part Two)</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 193 - The Man Who Died Twice</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9aaeacf2db3827252613b2b365cd397f1787246749_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2da28143ff63e6b7eac12b5db21e3f851293505208_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/5/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNJE7/the-birdman-rally-bombing-part-two">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU807M7/the-man-who-died-twice">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Conan helps the pilot stay aloft to avoid triggering the explosion, while Heiji helps rescue<br>the designer.</p>
+<p align="center">On his way home Naruto comes across a rock pasted with a peculiar talisman, which<br>he tears off without thinking. That night, Naruto is surprised to find an amnesic ghost<br>standing near his bed.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 3 - Episode 11 - Meet the Anime & Comics Shaping Marvel’s Iman Vellani</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 194 - The Worst Three-Legged Race</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dd4fb71256a6447dde6378e66a2060f11788483315_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0f682c14a4b5f43e6cbd7678499e53c91294769646_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/4/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9EG8N/meet-the-anime-comics-shaping-marvels-iman-vellani">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX4NN/the-worst-three-legged-race">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Iman Vellani joins The Anime Effect to talk Ms. Marvel, Attack on Titan, comics, and<br>the anime fandoms that fuel her and her new Image Comics series, Chachu.  Plus, we<br>break down anime’s big wrestling crossover with AEW, SpongeBob SquarePants x ONE PIECE Happy Meals,<br>Burger King x Dragon Ball, Pokémon: Wild Card, and more.</p>
+<p align="center">Team 7 is after a group of thieves who have stolen the precious Golden Statue<br>from the Feudal Lord's sister.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Detective Conan - Episode 1211 - The Birdman Rally Bombing (Part One)</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 195 - Team 10’s Teamwork</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6baa2e2aebbd6c72ea454a68f0c1c8c71787244081_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/480810122c8014fb45371efed40053001295374461_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/29/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2ZP9/the-birdman-rally-bombing-part-one">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K9NN/team-10s-teamwork">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kogoro goes to Lake Biwa to watch his alma mater participate in the Birdman Rally.</p>
+<p align="center">Team 7 and Team 10 are assigned to help a village that is troubled by<br>bandits.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 3 - Episode 10 - The Real Anime Story Behind Scott Pilgrim w/ Bryan Lee O’Malley</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 196 - Drive Towards Darkness</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5e85e3e525864c320d9d86d70efe66751787876833_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e6f9e499995425333b0ce769ea0f7dbb1295986647_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/28/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34JQP/the-real-anime-story-behind-scott-pilgrim-w-bryan-lee-omalley">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN07X1/drive-towards-darkness">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Scott Pilgrim creator Bryan Lee O’Malley joins The Anime Effect to unpack the anime and<br>manga roots behind his hit series, his history with SCIENCE SARU, and his return to<br>Scott Pilgrim with a brand-new comic. Plus, we break down anime's growing footprint in theme<br>parks, One Piece’s new movies, Charles Melton’s Naruto casting, and the anime we’re watching this<br>week.</p>
+<p align="center">Sasuke’s jealousy of Naruto’s tremendous growth in strength causes friction between the two. Tsunade decides<br>to give them some time apart by assigning them separate missions.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 58 - Attack Titan</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 189 - Sasuke’s Paw Encyclopedia</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a4f749bd8382e4b09aad9daffd5055bb1561322638_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/50fd417cb517f65f3223030aaee32f361291080766_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N1ZW/attack-titan">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ20WZ/sasukes-paw-encyclopedia">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Eren learns how all paths connect in the story that his father began. If Grisha<br>is to pay for his sins, he must fight for freedom and take a stand.</p>
+<p align="center">Granny Cat requests that Sasuke and Team 7 collect the last cat paw print necessary<br>to complete the “Paw Encyclopedia.”</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 59 - The Other Side of the Wall</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 190 - Naruto and the Old Soldier</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6713305bb66e55f778db2153fe3c20bf1561940629_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a66c38e07a623d42accb19f2d6654bdc1291751038_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVEZJ/the-other-side-of-the-wall">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND1M4/naruto-and-the-old-soldier">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Though it's met with hope and despair, the truth is made public. The Scouts then<br>venture beyond the walls to see if it's everything they dreamed of.</p>
+<p align="center">Naruto is assigned to a team led by jonin Hayama to patrol the north border<br>of the Leaf Village. One of his teammates is Kosuke, an old man who has<br>been a genin for over fifty years, earning him the title “Eternal Genin.”</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 48 - Bystander</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 191 - Kakashi Love Song</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e9eb3f704154df63cb54cd99f2e396931538921588_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/949f35cf036c076b649232cc8f5903161292023299_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQVN0/bystander">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3KED/kakashi-love-song">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having seen a glimpse of his father's memories, Eren attempts to track down a man<br>hoping they might shed some light on his father's secrets.</p>
+<p align="center">A beautiful kunoichi spy named Hanare is captured for attempting to gather intel on the<br>Hidden Leaf.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 49 - Night of the Battle to Retake the Wall</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 192 - Neji Chronicles</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ac905a9d96febd421b2fbb2bd137273c1539511269_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9053bc9c1dc5b24729203d27be765fe21292872687_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV41NP/night-of-the-battle-to-retake-the-wall">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEXP1Q/neji-chronicles">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Scouts gather for a feisty feast before leaving to retake Wall Maria to uncover<br>what's hidden in the basement once and for all.</p>
+<p align="center">During the Chunin Exam, Neji rests in the medical room, having lost to Naruto. Just<br>as Tenten comes in to check up on him, they see the Leaf Village attacked<br>by Orochimaru and his men.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 50 - The Town Where Everything Began</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 184 - Deploy! Team Tenten</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/328f563ae2a81d43520f380e1dbe2ba91556432883_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/68d2c3d27bda648f531ac07d1135571b1288228644_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ20Z2/the-town-where-everything-began">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3417V/deploy-team-tenten">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The operation to retake Wall Maria commences in Shiganshina, the town where everything began. But<br>when the Scouts arrive, something seems very wrong.</p>
+<p align="center">Tenten and Neji head for the Leaf Ninja Tool Research Lab to procure ninja tools<br>necessary for rebuilding the Leaf Village.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 51 - Thunder Spears</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 185 - Animal District</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f2e0ee3a1dbb05046ae37490f890e4f21557056448_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/344e4b6ba004264a42fcfa4e6fbfc10b1289009852_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND1QN/thunder-spears">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9EM07/animal-district">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Against a rush of enemies, the Scouts scramble to defend their horses. But despite falling<br>into a trap, they have their own surprise for the Armored Titan.</p>
+<p align="center">Condor, the ostrich previously captured by Team 7, now lives in a forest with baby<br>ostriches. Since his last escape, Condor has trained himself to become a ninja ostrich.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 52 - Descent</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 186 - Ah, the Medicine of Youth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2e36a7defa9694a212aaa26b200109d21557673116_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6dd20286758585ccaaa569abf5b865cc1289867488_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3K1W/descent">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QWEP/ah-the-medicine-of-youth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Though their Thunder Spears prove effective, the Scouts' celebration is short-lived as disaster descends upon<br>Shiganshina.</p>
+<p align="center">After accidentally finishing off Lee’s last special youth drink, Naruto asks Guy to make more,<br>only to learn one of its key ingredients, the Jofuku Flower, is out of stock.<br>Naruto is determined to get the Jofuku Flower for Lee’s sake.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 53 - Perfect Game</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 187 - Gutsy Master and Student: The Training</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5cacf7aeb029825da15652740d1f36ce1558279231_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0150c195106ed5bb8618875177bb86451290485650_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEXPKD/perfect-game">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQV5J/gutsy-master-and-student-the-training">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While one front in the battle is rained on by flames, the other is battered<br>by boulders. With no way out, the Scouts are forced to fight or die trying.</p>
+<p align="center">Jiraiya takes Naruto to a village in the hopes of teaching him how to counter<br>the Sharingan’s genjutsu attack.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 54 - Hero</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 188 - Record of the Gutsy Ninja Master and Student</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7385376881794960b527bd1f97f92ff21558902273_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e4ee44deca859fdb89d48fb4974c23521290485706_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU807K3/hero">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV417D/record-of-the-gutsy-ninja-master-and-student">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Erwin's heroic charge buys Levi time to confront the Beast Titan, Armin comes up<br>with a plan of his own that lays it all on the line.</p>
+<p align="center">Naruto and Jiraiya attempt to save a village from Kandachi, a former right-hand man to<br>Hanzo of the Hidden Rain.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 55 - Midnight Sun</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 180 - Inari's Courage Put to the Test</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3f288861f03d9538d342855139c322e71559516204_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/590fef86ec179188aea3a4cdf2bb63a31286307217_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX4GM/midnight-sun">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78J24/inaris-courage-put-to-the-test">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While picking up the pieces from the costly battle, tensions rise when deciding which of<br>the wounded Scouts to use the single syringe on.</p>
+<p align="center">The Leaf ninja work to rebuild the Hidden Leaf Village. While helping with the restoration,<br>Naruto and Sakura are reunited with two old friends—the carpenter Tazuna and his grandson Inari<br>from the Land of Waves.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 56 - The Basement</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 181 - Naruto's School of Revenge</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a487ae5f50260859ae587418f53f68501560126406_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5d9fe138994f448078aa9e40daac2ea91286917358_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KVPQ/the-basement">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2NJ7/narutos-school-of-revenge">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The secrets hidden in Grisha's basement await in the ruins of Shiganshina. There, the Scouts<br>hope to find answers to the world worth more than the price they paid.</p>
+<p align="center">Team 7 stops in a town for some rest, where they encounter a man named<br>Tsukado who is out to avenge the death of his relative.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 57 - That Day</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 182 - Gaara’s Bond</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/914b753bfd31868515ac2901569073b41560712044_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cd9bea15ab659c3933438bb24d9113261287432198_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0GE5/that-day">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNK23/gaaras-bond">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A look into Grisha's memories shows Eren the many secrets his father was hiding, including<br>one which led to his mother's demise.</p>
+<p align="center">Gaara, recalling a past mission carried out with the Leaf’s Team 7, points out that<br>the Leaf Village has Naruto with them.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 38 - Smoke Signal</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 183 - Naruto: Outbreak</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3b94749042f9fc0ec08bcd688bf7b9fe1532256356_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0401ccfed6c5cf755405f7ba762a650b1287795411_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND1EP/smoke-signal">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZD78/naruto-outbreak">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After barely surviving Eren's recovery, a rising threat from the shadows puts everyone's lives in<br>danger again.</p>
+<p align="center">Naruto visits Sakura, who is caring for Tsunade. Sakura recalls an incident that took place<br>three years before, in which she collapsed from symptoms that resembled a disease caused by<br>a mysterious virus.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 39 - Pain</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Tamil Dub) - Episode 196 - Drive Towards Darkness</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a2d6e8cf6353edad325dfd90d68076941532880909_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e6f9e499995425333b0ce769ea0f7dbb1295986647_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3KJ0/pain">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N1JP/drive-towards-darkness">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Scouts take a stand against a new enemy, but it's not just Titans they'll<br>be fighting anymore.</p>
+<p align="center">Sasuke’s jealousy of Naruto’s tremendous growth in strength causes friction between the two. Tsunade decides<br>to give them some time apart by assigning them separate missions.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 40 - Old Story</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 176 - Rookie Instructor Iruka</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b075e6e3d2b6f8bdbb934b53facc06461533466475_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/edf41b211ee634b0561855d5c09e14551283282283_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZVPP/old-story">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVEGV/rookie-instructor-iruka">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Historia and Erwin look back on their past, revealing a shady government with a hidden<br>agenda and inspiration for an uprising.</p>
+<p align="center">The Leaf Village is left in ruins in the wake of Pain’s assault on the<br>village. While cleaning through the remains of Ninja Academy, Iruka finds an old pillar and<br>recognizes it as a memoir from Naruto’s early years at the academy.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Season 3 (Polish Dub) - Episode 41 - Trust</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 177 - Iruka’s Ordeal</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4a5c95280a10d45b2f2480c5a5d028a01534058707_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/81c37c1a7a0bed73715533879a2b68aa1283969864_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/26/2026</td>
+<td align="center">9/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78JX1/trust">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV3ME/irukas-ordeal">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On the run and running out of time, the Scouts must entrust their lives to<br>others if they plan on surviving.</p>
+<p align="center">Naruto spends his days competing with Sasuke, the academy’s star student, only to screw up<br>and be the laughingstock of the class. Due to the childhood trauma of losing his<br>parents to the Nine-Tailed Fox, Iruka finds it difficult to interact with Naruto as his<br>student.</p>
 </td>
 </tr>
 </table>
