@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/0zunu/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 9, 2026, 9:16:36 AM</em></p>
+<p align="center"><em>Updated on: Sep 9, 2026, 10:36:53 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/0zunu/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/0zunu/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/0zunu/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/0zunu/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Final Season (Polish Dub) - Episode 70 - Deceiver</h3></th>
+<th><h3 align="center">HIGHSPEED Étoile - Episode 7 - The Goddess of Luck</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4402b85f5f1395541ad50fb69a5ae4251613935418_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5344fff1ac7f7a0b41110eebb170c6f31715955888_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E0Z7/deceiver">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX1D5/the-goddess-of-luck">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Trapped on the world's most dangerous island, Falco and Gabi will do anything to survive.<br>Elsewhere, the public demands answers when they learn the savior of Paradis has been detained.</p>
+<p align="center">Rin Rindo returns from the summer break with her thoughts firmly on improving on her<br>results from the first half of the season. Will a sudden downpour mid-race provide her<br>with a golden opportunity?</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Final Season (Polish Dub) - Episode 71 - Guides</h3></th>
+<th><h3 align="center">HIGHSPEED Étoile - Episode 8 - Your Driving</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/efdf918eb256edec1249fa7449c672001614531134_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c389b518c14168b85aec3bf0a512cede1716571907_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QE1P/guides">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80MGZ/your-driving">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Hange and Pyxis piece together Zeke's true intentions, tension builds outside HQ where Armin<br>and Mikasa plead for permission to speak with Eren.</p>
+<p align="center">After crashing out in her last race, it's back to the drawing board for Rin<br>and her crew. While her mechanic and her car's AI, ami, work out how to<br>give her a car setup she can make the most of, Rin tries to get<br>to grips with a 1960s grand tourer.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Final Season (Polish Dub) - Episode 60 - The Other Side of the Sea</h3></th>
+<th><h3 align="center">HIGHSPEED Étoile - Episode 9 - Shanghai Night Race!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5e5721da40ae3342fdddde39016301781607271386_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/08f56cc6524184c188195f46841af8841717171560_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NJ3P/the-other-side-of-the-sea">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXNJQ/shanghai-night-race">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Marley battles the Mid-East Alliance to end a four-year war, a group of Warrior<br>candidates on the front lines compete to be the successor of the Armored Titan.</p>
+<p align="center">The next stop on the calendar is Shanghai, a race that offers the unique challenge<br>of being run at night. Rin adjusts to her new set of wheels immediately and<br>qualifies well, but can she turn her high grid position into a podium finish or<br>even a win?</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Final Season (Polish Dub) - Episode 61 - Midnight Train</h3></th>
+<th><h3 align="center">HIGHSPEED Étoile - Episode 10 - Beyond the High Speed!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/adeaaa83963c53164bce6602daed217b1607876340_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bcf54200205149ad2d9f3d62e37847271717773780_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVGQV/midnight-train">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K921/beyond-the-high-speed">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Though glad the war is over, both the Eldian Warriors and Marley brass realize that<br>neither have a future unless they finish the job of retaking the Founding Titan.</p>
+<p align="center">The NEX Race drivers take to the track for the final event of the season,<br>but tough track conditions in practice followed by a snowstorm later the same evening equate<br>to less than optimal preparation for the next day's qualifying sessions.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Final Season (Polish Dub) - Episode 62 - The Door of Hope</h3></th>
+<th><h3 align="center">HIGHSPEED Étoile - Episode 11 - The Queen's Showdown</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8fa4696a3e48fd56d2dc8faad2646b3e1608488682_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2f32e8e0bac465f4e350019eec16f7e21718380147_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVM9E/the-door-of-hope">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN07PW/the-queens-showdown">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Reiner reflects on his past, remembering what pushed him to become a Warrior and keep<br>moving forward when all hope was lost.</p>
+<p align="center">The final race is underway and the Queen quickly takes the lead away from the<br>fast-starting Sophia. But as the track comes more to the other drivers, can the King—and<br>more importantly, Rin—challenge her for the race win?</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Final Season (Polish Dub) - Episode 63 - From One Hand to Another</h3></th>
+<th><h3 align="center">HIGHSPEED Étoile - Episode 12 - The Scenery Beyond</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5326516a6776a8b7572d772c376ac1ea1609099263_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c2f4eb21087b7cdae5130a5dd06d46961718983095_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMG5NW/from-one-hand-to-another">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NJQX/the-scenery-beyond">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A sudden visit from the Tybur family shakes up the Marleyan military. Meanwhile, Falco smuggles<br>letters for a friend and helps two old comrades reunite.</p>
+<p align="center">Rin and the King duke it out for the victory at the final race. Can<br>Rin get the win and secure her future in motorsport?</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Final Season (Polish Dub) - Episode 64 - Declaration of War</h3></th>
+<th><h3 align="center">HIGHSPEED Étoile - Episode 1 - Underneath Fuji's Sky</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e706a84d6020304288156862020160121610311074_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5b096da3543e1a957645ca05eb070a051712338119_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ0K3/declaration-of-war">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QE83/underneath-fujis-sky">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Willy Tybur reveals the truth in a shocking speech to the world, tensions rise<br>behind the stage as Eren and Reiner meet face to face.</p>
+<p align="center">A new form of energy called HyPER gives rise to a new racing series, NEX<br>Race, where human drivers and AI compete at speeds exceeding 500 kph. Five years later,<br>the season finale is contested by the undisputed champ and the Queen of the race<br>track.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Final Season (Polish Dub) - Episode 65 - The War Hammer Titan</h3></th>
+<th><h3 align="center">HIGHSPEED Étoile - Episode 2 - Debut!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6fdde90f431f52982a23e429941e0cf91610909006_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/965cab9d2bb4336561dda219d4a923eb1712904618_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU782V4/the-war-hammer-titan">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ54D/debut">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Eren's rampage is thwarted by the War Hammer Titan whose tenacity leaves him stumped. With<br>Marley's military joining the fight, he'll be hard-pressed to survive on his own.</p>
+<p align="center">It's the first race of a new season, and rookie Rin Rindo is looking to<br>make an impression in her first ever race, but she quickly finds out that racing<br>cars in real life isn't quite the same as competing in a video game.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Final Season (Polish Dub) - Episode 66 - Assault</h3></th>
+<th><h3 align="center">HIGHSPEED Étoile - Episode 3 - The Queen's Invasion</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e350687c8bbadbf1c6c73dc541a0e57c1611520667_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/49cbb8cad658bea6f8323e131b29f4791713517585_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2JW7/assault">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV47ZZ/the-queens-invasion">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The forces of Paradis begin their assault, but the Warriors stand their ground. As Marley<br>troops close in around them, Eren struggles to break the War Hammer's defenses.</p>
+<p align="center">After her first race in the category ended in disqualification, it's clear to Rin that<br>she has a lot to learn if she wants to compete with the big guns<br>in the NEX Race series.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Final Season (Polish Dub) - Episode 67 - Assassin's Bullet</h3></th>
+<th><h3 align="center">HIGHSPEED Étoile - Episode 4 - The King's Arrival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/abfee50e7f4dc59eb17e5f5e17fb76a61612111015_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/137917b34d9962014814a48e9a51e2831714145982_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN2G3/assassins-bullet">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2WDP/the-kings-arrival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With no Titans left to threaten their escape, the Scouts retreat on the airship. Determined<br>to make them pay for trampling on her home, Gabi chases after with gun in<br>hand.</p>
+<p align="center">Attending gala events and Q&A sessions is part and parcel of being a racing driver,<br>but when Rin is a no-show at one such event, her fellow drivers wonder where<br>she might be. Curiouser still is the fact that the King is also missing...</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Final Season (Polish Dub) - Episode 68 - Brave Volunteers</h3></th>
+<th><h3 align="center">HIGHSPEED Étoile - Episode 5 - Listen Carefully</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7a05d97e62fc9ca1a9049b13d741db271612724387_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ff09a64ebdd25a85886e046b9eae01241714750594_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ7J8/brave-volunteers">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDM35/listen-carefully">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Paradis deals with the aftermath of the raid on Liberio, Armin looks back in<br>the past to meeting the volunteer soldiers who reshaped their world.</p>
+<p align="center">The NEX Race drivers descend on Monaco to do battle on its narrow, twisty streets.<br>Rin makes it onto the starting grid after failing to do so at the two<br>previous events, but can she keep it out of the barriers and prove she belongs<br>in this series?</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Attack on Titan Final Season (Polish Dub) - Episode 69 - A Sound Argument</h3></th>
+<th><h3 align="center">HIGHSPEED Étoile - Episode 6 - Backmarker</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1557e1df17ec89418dc2355243cfd3451613331138_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b274be52a5f95ad443260c1f2bafb9551715356034_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU347PV/a-sound-argument">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3EPZ/backmarker">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Two years ago, Paradis welcomed their first visitor who was surprised to see one of<br>their own. Obtaining their help will be critical in a three-part plan to protect Paradis.</p>
+<p align="center">It's finally the summer break, marking the halfway point of the season, but if Rin<br>and her fellow drivers thought they could spend the time relaxing, they have another thing<br>coming.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 193 - The Man Who Died Twice</h3></th>
+<th><h3 align="center">A Centaur's Life - Episode 10 - When You Choose to Look at Contemporary Art for a Date... Part 1  | When You Choose to Look at Contemporary Art for a Date... Part 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2da28143ff63e6b7eac12b5db21e3f851293505208_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6f66a58b152666b750919f70c9c475941505038389_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/7/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU807M7/the-man-who-died-twice">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMG50W/when-you-choose-to-look-at-contemporary-art-for-a-date-part-1-when-you-choose-to-look-at-contemporary-art-for-a-date-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On his way home Naruto comes across a rock pasted with a peculiar talisman, which<br>he tears off without thinking. That night, Naruto is surprised to find an amnesic ghost<br>standing near his bed.</p>
+<p align="center">Suu-chan the Antarctican is going on a date with a boy in her class. Himeno,<br>Nozomi, and Kyoko are worried about her, so they quietly follow the couple... At the<br>same time, Manami is on a date with a girl from her class, and they<br>end up talking about her father...</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 194 - The Worst Three-Legged Race</h3></th>
+<th><h3 align="center">A Centaur's Life - Episode 11 - There Are As Many Names of Flowers... As There Are People, But That's Totally a Lie! | There Are As Many Types of Beauty As There Are People, Which Is Probably True If Used in a Broad Sense?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0f682c14a4b5f43e6cbd7678499e53c91294769646_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/33b3a67ed99d9a0061e09ef1a099fbce1505326564_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/7/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX4NN/the-worst-three-legged-race">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ0N3/there-are-as-many-names-of-flowers-as-there-are-people-but-thats-totally-a-lie-there-are-as-many-types-of-beauty-as-there-are-people-which-is-probably-true-if-used-in-a-broad-sense">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Team 7 is after a group of thieves who have stolen the precious Golden Statue<br>from the Feudal Lord's sister.</p>
+<p align="center">Sue-chan, the youngest of the Mitama family, has a weak constitution. Manami and her triplet<br>sisters are always worrying about her. On the other hand, Himeno's niece, Shino-chan, isa very<br>curious girl. She asks Himeno all kinds of questions as they go for a walk,<br>and looks adorable doing it. All the little ones—Himeno's niece Shino-chan, as well as Manami's<br>triplet sisters and baby sister Sue-chan—live their own stories.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 195 - Team 10’s Teamwork</h3></th>
+<th><h3 align="center">A Centaur's Life - Episode 12 - We Tried Making a Fantasy Story in RPG Style. | Fierce Fights! Arm Wrestling! How Will the Battle of the Heroines End?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/480810122c8014fb45371efed40053001295374461_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ef4d07089107f66217654772cc6573d61506250934_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/7/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K9NN/team-10s-teamwork">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU782M4/we-tried-making-a-fantasy-story-in-rpg-style-fierce-fights-arm-wrestling-how-will-the-battle-of-the-heroines-end">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Team 7 and Team 10 are assigned to help a village that is troubled by<br>bandits.</p>
+<p align="center">As they read a script that Mitsuyo wrote, Kyoko and Nozomi have various criticisms... Just<br>what is Mitsuyo's story about? All the girls in the class are holding an arm<br>wrestling tournament. Who will be the victor? Even as the trepidation hangs in the air,<br>the heated battle begins. Who will the goddess of victory smile upon in the end?</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 196 - Drive Towards Darkness</h3></th>
+<th><h3 align="center">A Centaur's Life - Episode 1 - When All Is Said And Done, Everyone Loves Kisses. | Did You Know That a Marathon Is a Microcosm of Life?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e6f9e499995425333b0ce769ea0f7dbb1295986647_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8a3cba9bc8d2d01f6ec009a1b4fbbaff1499595694_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/7/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN07X1/drive-towards-darkness">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3EVD/when-all-is-said-and-done-everyone-loves-kisses-did-you-know-that-a-marathon-is-a-microcosm-of-life">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sasuke’s jealousy of Naruto’s tremendous growth in strength causes friction between the two. Tsunade decides<br>to give them some time apart by assigning them separate missions.</p>
+<p align="center">It's nearly time for the school fair, and Himeno's class is putting on a play.<br>Himeno is chosen to play the princess, and after much consideration, Nozomi is chosen to<br>play the prince! With the guidance of the class president, Manami, preparations begin to come<br>together. Then, when the curtain rises at last, the unexpected happens...Kyoko is completely exhausted in<br>the middle of running a marathon for PE class. What will become of her?</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 189 - Sasuke’s Paw Encyclopedia</h3></th>
+<th><h3 align="center">A Centaur's Life - Episode 2 - Beauty Is A Double-Edged Sword | Water People Living in Water And Mountain People Living In Mountains Really Are Just That.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/50fd417cb517f65f3223030aaee32f361291080766_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9e336d3ea7672c3fd49e2ab9dd40d73e1500183420_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/7/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ20WZ/sasukes-paw-encyclopedia">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX19Q/beauty-is-a-double-edged-sword-water-people-living-in-water-and-mountain-people-living-in-mountains-really-are-just-that">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Granny Cat requests that Sasuke and Team 7 collect the last cat paw print necessary<br>to complete the “Paw Encyclopedia.”</p>
+<p align="center">Himeno has been featured in a fashion magazine! Could it be that she's working part-time<br>as a model? Suspicion and wild ideas fill the minds of Nozomi and Kyoko, but<br>what is the real story? Himeno's class visits a school for merfolk to participate in<br>a joint class. The students of the two classes begin to build relationships as they<br>interact throughout the day, but the highly unique merfolk students remain a source of intrigue.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 190 - Naruto and the Old Soldier</h3></th>
+<th><h3 align="center">A Centaur's Life - Episode 3 - Where Do the Little Ones Get So Much Vitality? | Regardless of the Generation, Magical Girls Are Popular, Huh?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a66c38e07a623d42accb19f2d6654bdc1291751038_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/13dd0b3de46945e0ebf689fd8e3779f51500499307_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/7/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND1M4/naruto-and-the-old-soldier">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80MN7/where-do-the-little-ones-get-so-much-vitality-regardless-of-the-generation-magical-girls-are-popular-huh">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Naruto is assigned to a team led by jonin Hayama to patrol the north border<br>of the Leaf Village. One of his teammates is Kosuke, an old man who has<br>been a genin for over fifty years, earning him the title “Eternal Genin.”</p>
+<p align="center">Himeno has a young cousin named Shino-chan. Manami, as well, has three young triplet sisters,<br>and an even younger fourth sister. One day, Manami orders her triplet sisters to stay<br>home and watch their youngest sister while she goes out. This leads the four youngest<br>Mitama sisters to experience a truly mysterious phenomenon...</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 191 - Kakashi Love Song</h3></th>
+<th><h3 align="center">A Centaur's Life - Episode 4 - Why Are We So Bewildered When We Receive a Love Letter? | You Can Tell What Type a Person Is by Whether They Believe in UMAs and UFOs or Not.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/949f35cf036c076b649232cc8f5903161292023299_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ac4a5799ca802700b6681d9e6b78feed1501399108_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/7/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3KED/kakashi-love-song">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXNKN/why-are-we-so-bewildered-when-we-receive-a-love-letter-you-can-tell-what-type-a-person-is-by-whether-they-believe-in-umas-and-ufos-or-not">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A beautiful kunoichi spy named Hanare is captured for attempting to gather intel on the<br>Hidden Leaf.</p>
+<p align="center">On her way to school one morning, a boy from another school gives Himeno a<br>love letter. The sudden turn of events has Himeno bewildered, and behind her bewilderment likes<br>a traumatic memory from her childhood. What happened in Himeno's past? Himeno and Nozomi have<br>come to Kyoko's house for a study meeting. As they're working, something strange happens...</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Past: The Hidden Leaf Village (Telugu Dub) - Episode 192 - Neji Chronicles</h3></th>
+<th><h3 align="center">A Centaur's Life - Episode 5 - Antarcticans Are Like Walking Rumors. | But In the End, The Antarcticans' History and Roots Are a Mystery, Too.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9053bc9c1dc5b24729203d27be765fe21292872687_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d2e90346204dd76b85bd4b095203f8471502018333_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,19 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/7/2026</td>
+<td align="center">9/9/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEXP1Q/neji-chronicles">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K9JN/antarcticans-are-like-walking-rumors-but-in-the-end-the-antarcticans-history-and-roots-are-a-mystery-too">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">During the Chunin Exam, Neji rests in the medical room, having lost to Naruto. Just<br>as Tenten comes in to check up on him, they see the Leaf Village attacked<br>by Orochimaru and his men.</p>
+<p align="center">A new student, the Antarctican Quetzalcoatl Sassassul, suddenly transfers into the girls' school one day,<br>much to the intrigue of everyone in the class. But for some reason, Himeno seems<br>to have experienced some sort of childhood trauma involving Antarcticans. The new student is as<br>kind and friendly as can be, but Himeno just can't shake her fear...
+
+Meanwhile, everyone in<br>the class has lots of questions for Sassassul...</p>
 </td>
 </tr>
 </table>
