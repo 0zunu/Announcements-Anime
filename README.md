@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/0zunu/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 9, 2026, 10:36:53 PM</em></p>
+<p align="center"><em>Updated on: Sep 10, 2026, 9:15:11 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/0zunu/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/0zunu/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/0zunu/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/0zunu/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">HIGHSPEED Étoile - Episode 7 - The Goddess of Luck</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar - Episode 48 - Life</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5344fff1ac7f7a0b41110eebb170c6f31715955888_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/74bfa2da0e507d8d5eaad5ff3cb3c4ad1695680833_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX1D5/the-goddess-of-luck">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN07NW/life">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rin Rindo returns from the summer break with her thoughts firmly on improving on her<br>results from the first half of the season. Will a sudden downpour mid-race provide her<br>with a golden opportunity?</p>
+<p align="center">Though their fight is over, fate still has a cruel trick to play on the<br>GGG.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HIGHSPEED Étoile - Episode 8 - Your Driving</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar - Episode 49 - Someday in the Sea of Stars</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c389b518c14168b85aec3bf0a512cede1716571907_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5d08499c05b456cb5ae9bf0887eed1e61695680888_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80MGZ/your-driving">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NJ7X/someday-in-the-sea-of-stars">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After crashing out in her last race, it's back to the drawing board for Rin<br>and her crew. While her mechanic and her car's AI, ami, work out how to<br>give her a car setup she can make the most of, Rin tries to get<br>to grips with a 1960s grand tourer.</p>
+<p align="center">A unexpected threat that easily outclasses the Primevals has appeared! The brave souls of the<br>GGG come together for one last battle to decide the planet's fate.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HIGHSPEED Étoile - Episode 9 - Shanghai Night Race!</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar Final - Episode 1 - The King of Braves is Reborn!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/08f56cc6524184c188195f46841af8841717171560_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b9f2acc428578197d613f4e96a34e8061695686167_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXNJQ/shanghai-night-race">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVGDZ/the-king-of-braves-is-reborn">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The next stop on the calendar is Shanghai, a race that offers the unique challenge<br>of being run at night. Rin adjusts to her new set of wheels immediately and<br>qualifies well, but can she turn her high grid position into a podium finish or<br>even a win?</p>
+<p align="center">The GGG and their new allies clash with the BioNet Crime Syndicate! However, when an<br>old ally suddenly appears, it's not exactly a joyous reunion.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HIGHSPEED Étoile - Episode 10 - Beyond the High Speed!</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar Final - Episode 2 - The God of Destruction! The Decisive Battle in the Storm!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bcf54200205149ad2d9f3d62e37847271717773780_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/91a4f1712401c677d89b4d425cd1585f1695686183_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K921/beyond-the-high-speed">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVMEX/the-god-of-destruction-the-decisive-battle-in-the-storm">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The NEX Race drivers take to the track for the final event of the season,<br>but tough track conditions in practice followed by a snowstorm later the same evening equate<br>to less than optimal preparation for the next day's qualifying sessions.</p>
+<p align="center">Mamoru and Kaidou clash over the mysterious artifacts known as Q-Parts, leading to a battle<br>that will declare the true King of Braves.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HIGHSPEED Étoile - Episode 11 - The Queen's Showdown</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar Final - Episode 3 - GGG's Exile Order</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2f32e8e0bac465f4e350019eec16f7e21718380147_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/92235dffeaac1cc5e543a848684df4ea1695686291_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN07PW/the-queens-showdown">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMG5MQ/gggs-exile-order">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The final race is underway and the Queen quickly takes the lead away from the<br>fast-starting Sophia. But as the track comes more to the other drivers, can the King—and<br>more importantly, Rin—challenge her for the race win?</p>
+<p align="center">The 11 Planetary Masters of Sol finally reveal themselves and our heroes blast off to<br>the Galeoria Comet in search of answers.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HIGHSPEED Étoile - Episode 12 - The Scenery Beyond</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar Final - Episode 4 - The King of Braves! The Final Core</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c2f4eb21087b7cdae5130a5dd06d46961718983095_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/75caaa7239a65374abbb9d06adad12b61695686347_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +200,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NJQX/the-scenery-beyond">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ0MX/the-king-of-braves-the-final-core">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rin and the King duke it out for the victory at the final race. Can<br>Rin get the win and secure her future in motorsport?</p>
+<p align="center">Now behind enemy lines, the GGG conduct a thorough investigation of their surroundings. However, our<br>heroes are under the threat of attack at any time!</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HIGHSPEED Étoile - Episode 1 - Underneath Fuji's Sky</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar Final - Episode 5 - The White Ark's Resurrection</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5b096da3543e1a957645ca05eb070a051712338119_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/800fe69545df366874b3530bba7b77731695686841_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +234,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QE83/underneath-fujis-sky">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7827J/the-white-arks-resurrection">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A new form of energy called HyPER gives rise to a new racing series, NEX<br>Race, where human drivers and AI compete at speeds exceeding 500 kph. Five years later,<br>the season finale is contested by the undisputed champ and the Queen of the race<br>track.</p>
+<p align="center">Following the brutal defeat of GaoFighGar, Mikoto and Renais scramble to rescue an ally who<br>may be able to help them.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HIGHSPEED Étoile - Episode 2 - Debut!</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar Final - Episode 6 - We Are Genesic</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/965cab9d2bb4336561dda219d4a923eb1712904618_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/999bc7f23b00fb17e5c3755e4f6964c41695686881_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +268,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ54D/debut">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2JXJ/we-are-genesic">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's the first race of a new season, and rookie Rin Rindo is looking to<br>make an impression in her first ever race, but she quickly finds out that racing<br>cars in real life isn't quite the same as competing in a video game.</p>
+<p align="center">As Guy struggles to free himself from the Planetary Masters' control, Mikoto fights to bring<br>about the genesis of a new King of Braves!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HIGHSPEED Étoile - Episode 3 - The Queen's Invasion</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar Final - Episode 7 - Super Brave Apocalypse</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/49cbb8cad658bea6f8323e131b29f4791713517585_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/91552b3bf792231e8eeb96689c94d8bf1695686856_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +302,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV47ZZ/the-queens-invasion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN2ZG/super-brave-apocalypse">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After her first race in the category ended in disqualification, it's clear to Rin that<br>she has a lot to learn if she wants to compete with the big guns<br>in the NEX Race series.</p>
+<p align="center">With the King of Braves reborn, the GGG launch an all-out attack on the Planetary<br>Masters that will decide the fate of the universe!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HIGHSPEED Étoile - Episode 4 - The King's Arrival</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar Final - Episode 8 - Mythology</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/137917b34d9962014814a48e9a51e2831714145982_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1577687a30c4fa79003d1c0363a8ab871695686946_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +336,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2WDP/the-kings-arrival">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ703/mythology">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Attending gala events and Q&A sessions is part and parcel of being a racing driver,<br>but when Rin is a no-show at one such event, her fellow drivers wonder where<br>she might be. Curiouser still is the fact that the King is also missing...</p>
+<p align="center">All becomes light in the conclusion of the GGG's FINAL battle.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HIGHSPEED Étoile - Episode 5 - Listen Carefully</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar - Episode 38 - Showdown in the Darkness</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ff09a64ebdd25a85886e046b9eae01241714750594_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/73ba21787cfc90e06cbb0c50af255c601695680173_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +370,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDM35/listen-carefully">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QE33/showdown-in-the-darkness">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The NEX Race drivers descend on Monaco to do battle on its narrow, twisty streets.<br>Rin makes it onto the starting grid after failing to do so at the two<br>previous events, but can she keep it out of the barriers and prove she belongs<br>in this series?</p>
+<p align="center">Guy, ChoRyuJin, and GekuRyuJin blast off into space to stop a Primeval who aims to<br>smite Earth by raining asteroids down upon it.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HIGHSPEED Étoile - Episode 6 - Backmarker</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar - Episode 39 - The Seven Ultimate Machine Primevals</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b274be52a5f95ad443260c1f2bafb9551715356034_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d90cbcdc629547d9367aa4d99db99b6e1695680227_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -404,13 +404,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3EPZ/backmarker">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ5WD/the-seven-ultimate-machine-primevals">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's finally the summer break, marking the halfway point of the season, but if Rin<br>and her fellow drivers thought they could spend the time relaxing, they have another thing<br>coming.</p>
+<p align="center">Seven of the most powerful Primevals take human form and command their fleet of Zonder<br>warships to encircle the GGG's Orbit Base.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Centaur's Life - Episode 10 - When You Choose to Look at Contemporary Art for a Date... Part 1  | When You Choose to Look at Contemporary Art for a Date... Part 2</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar - Episode 40 - Children of the Stars</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6f66a58b152666b750919f70c9c475941505038389_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f2e513d356b78fbe3312212495e40bb31695680310_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -438,13 +438,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMG50W/when-you-choose-to-look-at-contemporary-art-for-a-date-part-1-when-you-choose-to-look-at-contemporary-art-for-a-date-part-2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV47VZ/children-of-the-stars">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Suu-chan the Antarctican is going on a date with a boy in her class. Himeno,<br>Nozomi, and Kyoko are worried about her, so they quietly follow the couple... At the<br>same time, Manami is on a date with a girl from her class, and they<br>end up talking about her father...</p>
+<p align="center">The Seven Primevals have taken control of the Orbit Base, leaving only Mamoru, Kaidou, and<br>a handful of GGG members left to stop them.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Centaur's Life - Episode 11 - There Are As Many Names of Flowers... As There Are People, But That's Totally a Lie! | There Are As Many Types of Beauty As There Are People, Which Is Probably True If Used in a Broad Sense?</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar - Episode 41 - A Distant Victory Song</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/33b3a67ed99d9a0061e09ef1a099fbce1505326564_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1367b8f857f1137eaa898c2dfe78f09c1695680410_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -472,13 +472,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ0N3/there-are-as-many-names-of-flowers-as-there-are-people-but-thats-totally-a-lie-there-are-as-many-types-of-beauty-as-there-are-people-which-is-probably-true-if-used-in-a-broad-sense">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2WQP/a-distant-victory-song">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sue-chan, the youngest of the Mitama family, has a weak constitution. Manami and her triplet<br>sisters are always worrying about her. On the other hand, Himeno's niece, Shino-chan, isa very<br>curious girl. She asks Himeno all kinds of questions as they go for a walk,<br>and looks adorable doing it. All the little ones—Himeno's niece Shino-chan, as well as Manami's<br>triplet sisters and baby sister Sue-chan—live their own stories.</p>
+<p align="center">With true purpose behind the boys' powers revealed, The GGG and J-Stone Warriors join forces<br>to fight against the Primevals.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Centaur's Life - Episode 12 - We Tried Making a Fantasy Story in RPG Style. | Fierce Fights! Arm Wrestling! How Will the Battle of the Heroines End?</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar - Episode 42 - Return from an Ancient Era</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ef4d07089107f66217654772cc6573d61506250934_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/221c5c980f42e12d62a5450e6ca9502d1695680433_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -506,13 +506,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU782M4/we-tried-making-a-fantasy-story-in-rpg-style-fierce-fights-arm-wrestling-how-will-the-battle-of-the-heroines-end">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDMN5/return-from-an-ancient-era">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As they read a script that Mitsuyo wrote, Kyoko and Nozomi have various criticisms... Just<br>what is Mitsuyo's story about? All the girls in the class are holding an arm<br>wrestling tournament. Who will be the victor? Even as the trepidation hangs in the air,<br>the heated battle begins. Who will the goddess of victory smile upon in the end?</p>
+<p align="center">Shortly after a fossilized ChoRyuJin is discovered, GaoGaiGar and J-Der are suddenly incapacitated while fighting<br>a quartet of Primevals. With the King of Braves out of commission, only GekiRyuJin remains<br>to fight back.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Centaur's Life - Episode 1 - When All Is Said And Done, Everyone Loves Kisses. | Did You Know That a Marathon Is a Microcosm of Life?</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar - Episode 43 - GenRyuJin • GouRyuJin</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8a3cba9bc8d2d01f6ec009a1b4fbbaff1499595694_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/04c657b40981bfb3ef910a88affb38d81695680525_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -540,13 +540,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3EVD/when-all-is-said-and-done-everyone-loves-kisses-did-you-know-that-a-marathon-is-a-microcosm-of-life">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3EGZ/genryujin-gouryujin">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's nearly time for the school fair, and Himeno's class is putting on a play.<br>Himeno is chosen to play the princess, and after much consideration, Nozomi is chosen to<br>play the prince! With the guidance of the class president, Manami, preparations begin to come<br>together. Then, when the curtain rises at last, the unexpected happens...Kyoko is completely exhausted in<br>the middle of running a marathon for PE class. What will become of her?</p>
+<p align="center">Thanks to an incomprehensible force known as "THE POWER," a reborn ChoRyuJin flies in to<br>join forces with GekiRyuJin!</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Centaur's Life - Episode 2 - Beauty Is A Double-Edged Sword | Water People Living in Water And Mountain People Living In Mountains Really Are Just That.</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar - Episode 44 - Prologue to the End</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9e336d3ea7672c3fd49e2ab9dd40d73e1500183420_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3c5e0b3b685cbd3ad5722c03662d37951695680587_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -574,13 +574,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX19Q/beauty-is-a-double-edged-sword-water-people-living-in-water-and-mountain-people-living-in-mountains-really-are-just-that">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX1E5/prologue-to-the-end">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Himeno has been featured in a fashion magazine! Could it be that she's working part-time<br>as a model? Suspicion and wild ideas fill the minds of Nozomi and Kyoko, but<br>what is the real story? Himeno's class visits a school for merfolk to participate in<br>a joint class. The students of the two classes begin to build relationships as they<br>interact throughout the day, but the highly unique merfolk students remain a source of intrigue.</p>
+<p align="center">Mamoru struggles to reconcile his daily life with the fact he might not be human.<br>Meanwhile, the Primevals prepare to launch their final assault on humanity.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Centaur's Life - Episode 3 - Where Do the Little Ones Get So Much Vitality? | Regardless of the Generation, Magical Girls Are Popular, Huh?</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar - Episode 45 - GGG Goes to Jupiter</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/13dd0b3de46945e0ebf689fd8e3779f51500499307_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/018bd9f82d8e902f97657027b476233a1695680652_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -608,13 +608,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80MN7/where-do-the-little-ones-get-so-much-vitality-regardless-of-the-generation-magical-girls-are-popular-huh">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80M8Z/ggg-goes-to-jupiter">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Himeno has a young cousin named Shino-chan. Manami, as well, has three young triplet sisters,<br>and an even younger fourth sister. One day, Manami orders her triplet sisters to stay<br>home and watch their youngest sister while she goes out. This leads the four youngest<br>Mitama sisters to experience a truly mysterious phenomenon...</p>
+<p align="center">It's a somber Christmas Eve as Mamoru and the GGG prepare themselves for their journey<br>to Jupiter, where the galaxy's fate will be decided.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Centaur's Life - Episode 4 - Why Are We So Bewildered When We Receive a Love Letter? | You Can Tell What Type a Person Is by Whether They Believe in UMAs and UFOs or Not.</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar - Episode 46 - Those Who Have Courage</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ac4a5799ca802700b6681d9e6b78feed1501399108_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a8d02ef0073946aed114bc890bb5acd91695680718_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -642,13 +642,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXNKN/why-are-we-so-bewildered-when-we-receive-a-love-letter-you-can-tell-what-type-a-person-is-by-whether-they-believe-in-umas-and-ufos-or-not">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXNVQ/those-who-have-courage">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On her way to school one morning, a boy from another school gives Himeno a<br>love letter. The sudden turn of events has Himeno bewildered, and behind her bewilderment likes<br>a traumatic memory from her childhood. What happened in Himeno's past? Himeno and Nozomi have<br>come to Kyoko's house for a study meeting. As they're working, something strange happens...</p>
+<p align="center">Reeling from the sudden death of a loved one, Guy is drawn into the depths<br>of Jupiter itself.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Centaur's Life - Episode 5 - Antarcticans Are Like Walking Rumors. | But In the End, The Antarcticans' History and Roots Are a Mystery, Too.</h3></th>
+<th><h3 align="center">The King of Braves: GaoGaiGar - Episode 47 - Ending the Mechanization Threat</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d2e90346204dd76b85bd4b095203f8471502018333_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1106f6118b4651a7f07e6f1f6bf5d2cc1695680768_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -676,15 +676,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K9JN/antarcticans-are-like-walking-rumors-but-in-the-end-the-antarcticans-history-and-roots-are-a-mystery-too">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K981/ending-the-mechanization-threat">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A new student, the Antarctican Quetzalcoatl Sassassul, suddenly transfers into the girls' school one day,<br>much to the intrigue of everyone in the class. But for some reason, Himeno seems<br>to have experienced some sort of childhood trauma involving Antarcticans. The new student is as<br>kind and friendly as can be, but Himeno just can't shake her fear...
-
-Meanwhile, everyone in<br>the class has lots of questions for Sassassul...</p>
+<p align="center">Having a taste of THE POWER for themselves, the Primevals aggregate into their true form:<br>The Z-Master. With a volley of Zonder Spores headed for Earth, it's up to the<br>combined might of the GGG and their allies to end it once and for all.</p>
 </td>
 </tr>
 </table>
