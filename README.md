@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/0zunu/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 11, 2026, 10:34:17 PM</em></p>
+<p align="center"><em>Updated on: Sep 12, 2026, 9:17:16 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/0zunu/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/0zunu/Announcements-Anime"></a> 
@@ -11,6 +11,551 @@
     <img align="center" src="https://github.com/0zunu/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/0zunu/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/0zunu/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 3 - Episode 12 - How Kenny Omega Became All Might IRL</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1b7e16d971edd2aca9c5bef617d5e4841789138175_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QZ54/how-kenny-omega-became-all-might-irl">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kenny Omega joins The Anime Effect to talk anime, wrestling, and the Japanese pop culture<br>that shaped his career. From Astro Boy to Hajime no Ippo and My Hero Academia,<br>the AEW star isn't shy about his fandoms! PLUS, we celebrate Attack on Titan Day,<br>break down The Apothecary Diaries live-action series, and size up Crocs' new Yu-Gi-Oh! collection!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Genshin V7.0 Trailer Videos - Episode 8 - Character Trailer - "Odette: An Elegy for Innocence" | Genshin Impact</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/db52e4ad14378373f6e1b661c6cfb1251789161664_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2JZ8/character-trailer-odette-an-elegy-for-innocence-genshin-impact">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Farewell, and extend your apology to the warm hearth and the dreams by the windowsill.
+For<br>the path you are bound to embark upon leads toward the pale frost at daybreak.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Snack Basue - Episode 10 - Friend To Friend / Wednesday Night / Only Sixteen</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/223e363d9286e768f5206cb5af6286261710521659_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E0P8/friend-to-friend-wednesday-night-only-sixteen">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">To make a friend or not to make a friend, that is the question this<br>week at our lovely run-down snack bar. Find out whose point is superior and meet<br>the new customers who drop in this time! Grab a drink and listen in on<br>tonight's shenanigans.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Snack Basue - Episode 11 - Under The Cherry Moon / Adult Education / Solitude</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/af3816c4f7666ef8e8ce35bfdce4f9f31711124978_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QE70/under-the-cherry-moon-adult-education-solitude">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Heated debates stir up the snack bar this week as Akemi goes head-to-head with her<br>patrons. Who will you side with, and are the topics worth debating? Grab a drink<br>and come decide for yourself at Snack Basue!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Snack Basue - Episode 12 - The Great Pretender / Let Me Into Your World / Trouble Man</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b42d4971c5678004bc0589a21a8b5881711707992_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ5X8/the-great-pretender-let-me-into-your-world-trouble-man">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Welcome home, dear viewer, as you're greeted by a new face tonight. Meet Misawa, Akemi's<br>friend! How will she react when she meets Morita for the first time? Find out<br>in tonight's episode of lies and manhood.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Snack Basue - Episode 13 - Risen' To the Top / Just One Look</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6245fc9d819408c7d5ae274342c9ddbf1712326379_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV47E9/risen-to-the-top-just-one-look">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">In this final week, join the patrons one last time as Akemi reaches new heights<br>of ridiculousness involving inappropriate words. So pick up a glass and enjoy the run-down snack<br>bar as you de-stress, engage, and sing along!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Snack Basue - Episode 1 - Let's Stay Together / I Ain't Gonna Stand For It / God's Gift To The World</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7763e417055b0b92d0c628f9066da43f1705075971_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVGXW/lets-stay-together-i-aint-gonna-stand-for-it-gods-gift-to-the-world">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">In Hokkaido, a man wanders into a bar named Snack Basue. His first snack bar<br>experience becomes a night to remember when he meets the two eccentric ladies who run<br>the place. Along with other patrons, they willingly (or not) discuss what's on their minds.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Snack Basue - Episode 2 - Come Rain or Come Shine / Sweet Baby / Still Waiting</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dce5c81cdc1705d82f67916a29a3efee1705686024_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVMW4/come-rain-or-come-shine-sweet-baby-still-waiting">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The ladies at the snack bar planned on interviewing two new hires—a girl named Kosame<br>and a robber?! With trouble at hand, will they be able to handle this one?<br>With passionate talks of princes on white horses, etc., it's another fun night at Snack<br>Basue.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Snack Basue - Episode 3 - You're Still My Brother / As The Years Go Passing By / Try Me</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ae2c020da5a5dbe52dfbe1fcc958d8d21706291100_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMG59D/youre-still-my-brother-as-the-years-go-passing-by-try-me">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Two men walk into the snack bar, and what do they find? A murder scene?!<br>Has Akemi had enough of her boss's shenanigans?! Find out, with talks of the past<br>and secret techniques to follow! Another lively night at Snack Basue.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Snack Basue - Episode 4 - There Is Love / If I Should Die Tonight / Soul Shadows</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/aa9846e0497cb4dfda0f1c0877ac83161706887525_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ04E/there-is-love-if-i-should-die-tonight-soul-shadows">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Love is in the air as the men of the snack bar dare to ask<br>the difficult question: What is Akemi's type?! With the stresses of life eating away at<br>the patrons' souls, it's a good opportunity to find out if you see it too!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Snack Basue - Episode 5 - Get on the Good Foot / Talkin' Loud And Saying Nothin' / My Funny Valentine</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/314c9597db9c18606cc8512459e143941707500566_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU782KK/get-on-the-good-foot-talkin-loud-and-saying-nothin-my-funny-valentine">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Azuma is back to impress the ladies through palm reading written by none other than<br>Love Guru Douglas Hamada?! The night goes on as Valentine's day chocolate is given and<br>smack talk is served, making it another lively night!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Snack Basue - Episode 6 - Hello Stranger / What a Wonderful World / As / Mean Old World</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a6ba2fc689d070288b6d0d705e67808b1708105169_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2JE0/hello-stranger-what-a-wonderful-world-as-mean-old-world">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Come on a journey as Snack Basue dives into the world of fantasy and games.<br>New but recognizable customers join the gang as the night heats up in debate and<br>apologies are given to publishing companies. Fishing and reunions also to come!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Snack Basue - Episode 7 - Closer / What a Fool Believes / God Blessed Our Love</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/aebd329b8111ff095f001f7280ddf06c1708711962_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN205/closer-what-a-fool-believes-god-blessed-our-love">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The night opens as Morita tries to string Yamada along as his virgin buddy, though<br>Yamada claims he's not. Will the salary man be able to prove it?! Come walk<br>down memory lane as the patrons talk of their past struggles and enjoy a good<br>glass or ten.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Snack Basue - Episode 8 - None Of Us Are Free / In The Midnight Hour / Twinkle Twinkle Little Me / Angel</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/de6a41713a63e6a87d6afda0cbed9eb91709316895_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ7G2/none-of-us-are-free-in-the-midnight-hour-twinkle-twinkle-little-me-angel">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Akemi has a new challenge on her hands as baddies crowd the bar. Will she<br>have good advice for these evil commanders? Tonight, skills will be tested and regrets will<br>be born as the hostess and junior hostess serve another odd crowd!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Snack Basue - Episode 9 - Release Yourself / Bad, Bad Whiskey / Can't Get Any Harder</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/27df5fe995980dbb34ae476811cbc2a71709916842_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU347VE/release-yourself-bad-bad-whiskey-cant-get-any-harder">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">In today's episode, the Hero returns with very normal stories about swords and strength. Will<br>he be able to find the answer he needs? Join Basue and Akemi as they<br>assist their patrons with self preservation and self discovery.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detective Conan: Fallen Angel of the Highway | Trailer - Detective Conan: Fallen Angel of the Highway | Trailer</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dcb3398449919c779d4f577f6364e48b1784736804_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/11/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NGZE/detective-conan-fallen-angel-of-the-highway-trailer">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Burning Kabaddi - Episode 3 - Into the Burning World</h3></th>
 </tr>
@@ -139,550 +684,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Yoigoshi's successful raid has earned his team 3 points. Noukin thought they had momentum on<br>their side, but with Takaya scoring a huge number of points and Rokugen executing perfect<br>defense, the tables are turned and the point spread grows larger and larger. The fact<br>that all of Takaya's attention is trained on Ojo sitting on the bench makes Yoigoshi<br>angry. With the widening point gap, Azemichi's injury, and Noukin's weakening mental fortitude, the only<br>one who can save them would have to be...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Burning Kabaddi - Episode 7 - STRUGGLE</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3c3a5724c1e1936a9bf73a29078febfc1620970090_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4739/struggle">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The second half of the match begins. Ojo and Takaya battle furiously, switching from offense<br>to defense and back again. Noukin closes the point gap to four points. Then, Iura<br>tells Ojo he can't go out on the next raid. If Ojo, tired as he<br>is, gets injured, they won't be able to enter the upcoming tournament. It's a decision<br>made to keep Noukin's dreams from ending. Once Ojo understands Iura's true intentions, he entrusts<br>the task of sending Takaya out to Yoigoshi.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Burning Kabaddi - Episode 8 - Team Applicants</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/87dd4092c7e7552ea815664d3aae6def1621583518_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2WM0/team-applicants">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">First year Ban Nobutaka brings a club application form saying he wants to join the<br>kabaddi team. Ban is a bit of an odd one who wears his hair in<br>a pompadour, has a mean look to his eyes, and in spite of all that,<br>has a tiny, quiet voice. He arrives at the gym with two fellow first years,<br>Seki Ryuta and Hitomi Yuki, who say he invited them to come along. The truth<br>is, this man called Ban has met Yoigoshi back in second grade. It all happened<br>one very hot day...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Burning Kabaddi - Episode 9 - A Battle of Wills</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0c4d1a78ef9f4a420a1eeac5c62d49a11622170533_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDMZM/a-battle-of-wills">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Misumi is feeling troubled. Since he's been paired with Date for so long, he doesn't<br>know what he should do as an anti in the new formations. "What did I<br>used to do before this guy was around...?" In his first tournament after joining the<br>team, Misumi experienced failure and frustration. Not wanting to feel that miserable ever again, Misumi<br>invites Date, who has a very athletic build, to the kabaddi team, but...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Burning Kabaddi - Episode 10 - Because He's the Ace</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3026ffba2d80bf588540df674c9181401622774849_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3E8V/because-hes-the-ace">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sakura Manabu was once one of Ojo's juniors in kabaddi, and he's lit a sense<br>of rivalry in Yoigoshi. At the same time, Sakura wants to surpass the person he<br>sees as his master teacher—Ojo. In a way, Yoigoshi and Sakura are like fellow apprentices.<br>The two clash on the court. Yoigoshi unleashes a new skill he's been working on<br>in secret, further showing his growth. Meanwhile, Sakura faces off against Ojo with a conflicted<br>heart. Amidst the ebb and flow of raid and defense, an unexpected accident occurs...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Burning Kabaddi - Episode 11 - The Direction We're Aiming</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/90012af6581df2dcbfca5219142ef0b21623397865_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX15M/the-direction-were-aiming">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sakura has awakened as his team's ace and racks up an incredible number of points<br>in a single raid. Noukin withers away. But, Yoigoshi alone is different. Knowing that they<br>must recover on his raid, Yoigoshi aims for a split-second opening and uses a new<br>skill against Sakura. "What was that?!" Everyone is shocked. But Sakura regains his focus and<br>prevents Yoigoshi from returning, thus turning the tables on Noukin.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Burning Kabaddi - Episode 12 - After Giving Every Last Drop</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5ee5a5d32de7565c71c223aa3b4db1931623996813_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80MP2/after-giving-every-last-drop">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">There is one minute remaining. Noukin has lost Ojo and allowed Kouyou to take a<br>five point lead. Their fatigue is at its peak. Amidst all this, Yoigoshi does not<br>relent in his raid and takes back two points. However, he was unable to return<br>Ojo to the court. Still, Noukin refuses to give up, and their morale rises through<br>the efforts of Misumi. Fifteen seconds remain. Yoigoshi is raring to go. "This time, it's<br>my turn."</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Quality Assurance in Another World - Episode 6 - The Mad King</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/be2b98b65eec73a36f8f4f2259fb74d31723218599_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0729/the-mad-king">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The party works their way through the game's main story in order to get close<br>to the evil debuggers.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Quality Assurance in Another World - Episode 7 - The Boss</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f3392f7cde0779e739caefc302d7d18f1723831354_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NJDQ/the-boss">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Haga and his friends confront the evil debuggers at the main gate of the castle.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Quality Assurance in Another World - Episode 8 - Console Command</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4aadd543243f107b1fa3e1844bbcd3641724434552_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVG7W/console-command">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Amano receives an offer from an unexpected source, while Haga looks for a new weapon<br>for Nikola.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Quality Assurance in Another World - Episode 9 - Akira Kagami</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d3d7e0cbb066595cbab94fec662e89591725037461_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVMN4/akira-kagami">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Haga and the crew meet a new friend, and a very unusual boy...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Quality Assurance in Another World - Episode 10 - Gaydle and Yamanaka</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0c37b7243602984e138ca58b635ecbdd1725636703_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMG5DD/gaydle-and-yamanaka">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Haga learns more about what happened to Gaydle, while the village fighters try to treat<br>him as a threat.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Quality Assurance in Another World - Episode 11 - Alba</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5297a9aef77beca6014d013fe6593ec41726243649_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ02E/alba">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As the party flees from Gaydle, Nikola refuses to wake up.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Quality Assurance in Another World - Episode 12 - The Diamond</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a81083cdbe91859d47455889953d47b91726845131_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7829K/the-diamond">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Haga and the others are teleported to the bottom of a massive dungeon.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Quality Assurance in Another World - Episode 13 - Silence</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/83bc06f5ad4ff1258166a3985b0437381727458862_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2JM0/silence">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Trapped at the bottom of a deadly dungeon, Haga and his party must take incredible<br>risks to escape.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Burning Kabaddi - Episode 1 - What Is Kabaddi?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a9a15552681f5b50404976a383481e6a1617363993_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN235/what-is-kabaddi">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Yoigoshi Tatsuya was a famous soccer player, but when he entered high school, he took<br>the opportunity to sever every relationship he had with sports. Azemichi Soma barges in on<br>him to invite him to join the kabaddi team, and drags him to practice saying<br>all he needs to do is watch. Yoigoshi thinks it's a ridiculous sport, only good<br>for gags, but he's soon caught in a trap set by the vice-captain, Iura Kei,<br>and forced to try kabaddi for himself...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Burning Kabaddi - Episode 2 - Men Who Connect</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d2914ecfc0390aaa002a6944536826421617962703_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/10/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ7P2/men-who-connect">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Yoigoshi refuses to practice being an anti because he doesn't like the defense formation commonly<br>known as a "chain" where they have hold hands. However, even though he rejects the<br>idea of holding hands with other guys, his raid success rate against them is zero.<br>But after observing Iura, and second years Misumi Kyohei and Date Shinji, Yoigoshi declares that<br>he has discovered a surefire way to win — a raiding hat trick.</p>
 </td>
 </tr>
 </table>
