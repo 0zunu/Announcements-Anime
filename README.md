@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/0zunu/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 19, 2026, 9:22:34 AM</em></p>
+<p align="center"><em>Updated on: Sep 19, 2026, 10:04:19 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/0zunu/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/0zunu/Announcements-Anime"></a> 
@@ -11,6 +11,40 @@
     <img align="center" src="https://github.com/0zunu/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/0zunu/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/0zunu/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Detective Conan - Episode 1213 - Mori Ran the Eyewitness</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b746fc4bffa292d1a9495666d12a5e2d1789595428_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/19/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZNVE/mori-ran-the-eyewitness">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">While heading to a salon, Ran sees a person fall through a building window.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 3 - Episode 13 - Spider-Man's Jacob Batalon Has Better Anime Taste Than You</h3></th>
 </tr>
@@ -649,40 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">A message from Tanbarun causes Shirayuki to think again about her future with Zen.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Snow White with the Red Hair - Episode 10 - Inexperienced Heart, Going Deeper</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b74d23c9f644ebd50eb36925872b45a71510024268_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/15/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NJM2/inexperienced-heart-going-deeper">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">While at work in the castle, Shirayuki makes friends with a girl named Kiharu and<br>her bird Popo. Can Shirayuki help save Popo's family?</p>
 </td>
 </tr>
 </table>
