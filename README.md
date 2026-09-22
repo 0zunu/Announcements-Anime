@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/0zunu/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 22, 2026, 9:32:48 AM</em></p>
+<p align="center"><em>Updated on: Sep 22, 2026, 10:58:51 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/0zunu/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/0zunu/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/0zunu/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/0zunu/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Detective Conan - Episode 1213 - Mori Ran the Eyewitness</h3></th>
+<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 21 - Reunion</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b746fc4bffa292d1a9495666d12a5e2d1789595428_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d134a6af642d11fe76af850ba6991a0f1772319250_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZNVE/mori-ran-the-eyewitness">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN2K8/reunion">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While heading to a salon, Ran sees a person fall through a building window.</p>
+<p align="center">The crew, with its latest new member Livio, regroup at Hopeland to kick off their<br>plan to stop Knives.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 3 - Episode 13 - Spider-Man's Jacob Batalon Has Better Anime Taste Than You</h3></th>
+<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 22 - Martyr</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e13bd9c5bf38e8621f627ca54cfe5f6e1789693138_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1d55c5b4f63c36feb8593ca126c21911772924798_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/18/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0739/spider-mans-jacob-batalon-has-better-anime-taste-than-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ7DN/martyr">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jacob Batalon joins The Anime Effect this week to talk Spider-Man: Brand New Day, Solo<br>Leveling, Naruto, isekai dreams, and the pop culture that prepared him to play Ned Leeds<br>in the MCU. Plus! We break down the wild idea that Pokémon cards will one<br>day become currency, the new Legend of Zelda: Ocarina of Time remake, and more!</p>
+<p align="center">Vash and Knives, and their respective allies, face off in a final showdown at the<br>crash site where it all started.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cute High Earth Defense Club Hi-CARA! - Episode 5</h3></th>
+<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 23 - I Miss You.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0968e6dc5aa45bb619bf3b09f8af15361789260407_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/51aa56b937e3cbc2a66a85fbb159e4181773850510_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/16/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QEZE">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3471M/i-miss-you">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Knives arrives and captures Vash. His final plan is set in motion - as well<br>as Vash's final resistance.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cute High Earth Defense Club Hi-CARA! - Episode 6</h3></th>
+<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 24 - QUO VADIS</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/719f81a6ce38fdb85d1b26a92a00354b1789260418_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f92e5d9db0a2abeee6f3dbbe80cb17de1774392102_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/16/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ51K">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E0MM/quo-vadis">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">The immigrant fleet arrives, and Knives single-handedly threatens to eliminate them.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cute High Earth Defense Club Hi-CARA! - Episode 7</h3></th>
+<th><h3 align="center">TRIGUN STAMPEDE (Thai Dub) - Episode 12 - High Noon at July</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2d638562f33fddb9c5e953b7b6b884951789260429_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d9ae1db235c924ba238e0f1abe3291671679759210_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/16/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV479J">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K9VW/high-noon-at-july">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Knives takes away Vash's precious memories, disabling Vash completely. He begins the final phase of<br>the process that will change the planet forever. Meryl, however, isn't willing to sit idly<br>while this happens.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cute High Earth Defense Club Hi-CARA! - Episode 8</h3></th>
+<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 13 - Wandering Days</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d85f54d47797e78cd5df185f4f266511789260440_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f04d669af80760fe17f3296d754f7d881767477718_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/16/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2W91">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN07G2/wandering-days">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Two years have passed since the events at JuLai. Vash is still missing. Someone is<br>stealing Plants again.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cute High Earth Defense Club Hi-CARA! - Episode 9</h3></th>
+<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 14 - Unforgiven</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7a34447d1bf60bf8c04e3d5265c62ba51789260451_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e440c1a0976db81db8df6c1f33acd2ef1768583018_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/16/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDM2D">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NJ12/unforgiven">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">When their home is attacked, Vash is the last hope for Brad, Jessica, and the<br>others.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cute High Earth Defense Club Hi-CARA! - Episode 10</h3></th>
+<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 15 - Memento Mori</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f56bb96568f3e385bf06693790052ce01789260461_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bac3e28e13c42684b46f2b576ac4f8a11769101737_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/16/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3EMG">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVGEX/memento-mori">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">The immediate threat is suppressed, but now there is no doubt that the threat from<br>Knives is still real.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cute High Earth Defense Club Hi-CARA! - Episode 11</h3></th>
+<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 16 - From Order To Chaos</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8d3134265da86908a0d7dc3728d4655d1789260471_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7eb120e7da3b0731b1dad1931ac403691769623433_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/16/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX1Q0">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVM3D/from-order-to-chaos">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Vash sets off for Home with his companions, but Knives' men are already planning a<br>new attack.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cute High Earth Defense Club Hi-CARA! - Episode 12</h3></th>
+<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 17 - What a Wonderful World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fccafe735a0a240ee1453400affabd731789260482_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/144fdc32c48e79ccf3b385a409c477ba1770327025_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/16/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80MWG">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMG53P/what-a-wonderful-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Midvalley attacks Home and faces off against Wolfwood.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cute High Earth Defense Club Hi-CARA! - Episode 1</h3></th>
+<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 18 - The Darkest Hour is Just Before the Dawn</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/28094c490beee17edd0b67a09d306e6d1789260360_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6e6d8692190e60a4b17aefe3033ae0c11770751974_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/16/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN2J8">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ0V9/the-darkest-hour-is-just-before-the-dawn">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Everyone prepares for a huge battle as Legato and the Ark approaches Ship 3.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cute High Earth Defense Club Hi-CARA! - Episode 2</h3></th>
+<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 19 - The Hurt Locker</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a13c4a122dbea7d6f53e0c60ccac96ee1789260372_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d0aba4fb429c0ab0e99ace5740939cfc1771440399_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/16/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ7NN">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU782JX/the-hurt-locker">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">As the arrival of the fleet imminent, both factions begin preparations for the final showdown.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cute High Earth Defense Club Hi-CARA! - Episode 3</h3></th>
+<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 20 - Good Bye, My Friend</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9e11e2cb05a55b3523e0481ef953b9121789260384_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0c08e92ecd22a0a5d2551f9ea295e2071772218844_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/16/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU347JM">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2JN8/good-bye-my-friend">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Wolfwood helps Vash break out of the Ark, but is pursued by Razlo, Livio's alter<br>ego.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cute High Earth Defense Club Hi-CARA! - Episode 4</h3></th>
+<th><h3 align="center">TRIGUN STAMPEDE (Thai Dub) - Episode 2 - The Running Man</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e2dedf422037ac7a82187dbafcc8d4471789260396_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0dce39b0d1fb1f9f7984ad8ad97d3db71673678321_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/16/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E0GM">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E05M/the-running-man">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Despite being saved by Vash twice already, the townsfolk of Jeneora Rock decide it's in<br>their best interest to capture Vash for his bounty. Vash decides to escape, but it's<br>not just the gun-toting townsfolk he needs to run away from.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Snow White with the Red Hair Season 2 - Episode 7 - Wave of Determination</h3></th>
+<th><h3 align="center">TRIGUN STAMPEDE (Thai Dub) - Episode 3 - Bright Light, Shine through the Darkness</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d43eed80f446f14d5d298e148ba40e731510039642_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/11e1e0b3b303e68f75bba834dbc38efc1674289123_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/15/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3479M/wave-of-determination">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QEJE/bright-light-shine-through-the-darkness">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The two princes' daring plan to rescue Shirayuki and Kazuki is put into motion, requiring<br>brains, brawn, and not a little derring-do.</p>
+<p align="center">Vash, the town of Jeneora Rock, and the Nebraskas reach a three-way truce, but their<br>brief moment of peace is shattered by yet another assailant. He seems to be after<br>the plant as well, but something more sinister seems to be at play.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Snow White with the Red Hair Season 2 - Episode 8 - The Temperature of a Smile, a Cherished Place</h3></th>
+<th><h3 align="center">TRIGUN STAMPEDE (Thai Dub) - Episode 4 - HUNGRY!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ed54844be5512e9c11e2cf45f9ddb0d31510041108_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/63da98e97242aede48151d63f3cf14601674883280_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/15/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E03M/the-temperature-of-a-smile-a-cherished-place">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ5VK/hungry">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shirayuki and the others visit the village of the Lions of the Mountain, where they<br>have a party to celebrate their victory.</p>
+<p align="center">Vash meets Nicholas, a suspicious undertaker who carries a huge cross. Before they could get<br>to know each other, though, they are attacked by a huge worm, swallowing them and<br>the building they were in.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Snow White with the Red Hair Season 2 - Episode 9 - When I'm with You…</h3></th>
+<th><h3 align="center">TRIGUN STAMPEDE (Thai Dub) - Episode 5 - Child of Blessing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3717edf948d367a20d77cc388c870e3d1510041037_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5b481d297296e70d1ae753320341169a1675525451_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/15/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QE0E/when-im-with-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV471J/child-of-blessing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On their way back to Tanbarun, Shirayuki and the others are caught in the rain<br>and stop at an inn, where they meet a mysterious woman…</p>
+<p align="center">Vash is drawn towards a seemingly abandoned village with a giant windmill, for reasons that<br>only he knows. There, the group is attacked by a tremendous gale of gunfire.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Snow White with the Red Hair Season 2 - Episode 10 - The Spring of Intent Will Quench Your Thirst</h3></th>
+<th><h3 align="center">TRIGUN STAMPEDE (Thai Dub) - Episode 6 - Once Upon a Time in Hopeland</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ccab76b378eeb517e96c39d88477bf131510041957_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/952bc57db08e4e3d11850fa6ad912b8b1676103844_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/15/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ58K/the-spring-of-intent-will-quench-your-thirst">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2W01/once-upon-a-time-in-hopeland">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shirayuki and Zen are back in Clarines, but Zen is forced to have a marriage<br>interview.</p>
+<p align="center">Vash and Wolfwood board the massive Sandsteamer vessel to travel to their final destination, JuLai.<br>Yet again, they are ambushed by a hail of gunfire, but this time, it's someone<br>Wolfwood knows.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Snow White with the Red Hair Season 2 - Episode 11 - The Future Because of Who You Are</h3></th>
+<th><h3 align="center">TRIGUN STAMPEDE (Thai Dub) - Episode 7 - WOLFWOOD</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fdcb8b624dc2d1c6b880ee472d8cf7861510103121_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/be1275470f4fbc5a147083fd4d3653c31676732682_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/15/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV47GJ/the-future-because-of-who-you-are">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDM1D/wolfwood">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Mitsuhide has an accident with a concoction in the medical wing which causes him to<br>behave strangely.</p>
+<p align="center">Vash and Wolfwood work together to stop Livio, an assassin who has lost his sense<br>of self. The chaos is further accelerated by an attack by the Bad Lads Gang.<br>While this is happening, someone sabotages the Sandsteamer, sending it on a crash course with<br>Hopeland, Wolfwood's home town.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Snow White with the Red Hair Season 2 - Episode 12 - My Story, My Path</h3></th>
+<th><h3 align="center">TRIGUN STAMPEDE (Thai Dub) - Episode 8 - Our Home.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/00f72e22c8b20dfa5a9cd8571f25e20e1510098436_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3bc845af1ca05ebc84c10fec8cf522bb1677337381_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/15/2026</td>
+<td align="center">9/22/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2WE1/my-story-my-path">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3EKG/our-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A message from Tanbarun causes Shirayuki to think again about her future with Zen.</p>
+<p align="center">Many years in the past, a colony ship traveling through space to find a new<br>home for humanity suddenly experienced an emergency. Young Vash and Knives were saved by Rem<br>and crash-landed on the planet No Man's Land on an escape pod.</p>
 </td>
 </tr>
 </table>
