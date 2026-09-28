@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/0zunu/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 28, 2026, 9:43:20 AM</em></p>
+<p align="center"><em>Updated on: Sep 29, 2026, 1:59:22 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/0zunu/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/0zunu/Announcements-Anime"></a> 
@@ -12,245 +12,7 @@
     <img align="center" height='20' src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/0zunu/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/0zunu/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 213 - Lost Bonds</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6cb33f728ead4c44b57251b4a3a4c3cd1305746130_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/28/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVVKE4/lost-bonds">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Memories from his childhood course through Naruto’s mind as he rests to recover from his<br>hyperventilation.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 214 - The Burden</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/da2a4e31599d530fae5d36fede549b3c1306192709_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/28/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU88NJ9/the-burden">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sakura tells Sasuke that she wishes to desert the village and join him. A skeptical<br>Sasuke tells Sakura he will believe her if she can finish off Karin.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 215 - Two Fates</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/647787eb85c5253ac5ae2ef969b56dcb1306951881_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/28/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNNXVX/two-fates">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Naruto reproaches Sasuke for attempting to kill Sakura. Then Sasuke reveals that he killed Danzo<br>with his own hands. He goes on to declare his intent to purify the Uchiha<br>clan’s name by annihilating the Hidden Leaf.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 216 - High-Level Shinobi</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8c3163249bd715c5f04cdaf0b68d89b01307384705_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/28/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU773PV/high-level-shinobi">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Years ago at the Final Valley, Sasuke told Naruto about high-level shinobi being able to<br>understand one another just by trading blows. Having become a high-level shinobi, Naruto is now<br>able to understand Sasuke’s heart.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 217 - The Infiltrator</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e3a3b3a4051d6b0ce0e522d27f930de51308706551_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/28/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDDQMM/the-infiltrator">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Killer Bee returns to the Hidden Cloud Village to the delight of Omoi and Karui.<br>He has brought Kisame’s sword, Samehada, with him. Bee believes the sword has taken a<br>liking to him but is unaware that this is all just part of the Akatsuki’s<br>plan.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 218 - The Five Great Nations Mobilize</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/889292824ae92c2f8d21392d4ac21deb1308603470_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/28/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEE9GV/the-five-great-nations-mobilize">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The formation of the Allied Shinobi Forces is ratified by the Feudal Lords of the<br>Five Great Nations. Each Kage returns to their village to prepare for the coming war</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 219 - Kakashi Hatake, the Hokage</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/97ea3ca68eef7b78e3def0a667e773811310004773_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/28/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMMNZM/kakashi-hatake-the-hokage">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Naruto gathers his friends and tells them that he will defeat Sasuke alone. Meanwhile, the<br>Elders of the Leaf officially nominate Kakashi to become the next Hokage.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 220 - Prophecy of the Great Lord Elder</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 220 - Prophecy of the Great Lord Elder</h3></th>
 </tr>
 <tr>
 <td>
@@ -268,7 +30,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMMKDG/prophecy-of-the-great-lord-elder">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXXW2K/prophecy-of-the-great-lord-elder">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -284,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 197 - The Sixth Hokage Danzo</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 215 - Two Fates</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8aac5fc2f9e07803ef7b2201f93a30af1297188551_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/647787eb85c5253ac5ae2ef969b56dcb1306951881_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU77V3Z/the-sixth-hokage-danzo">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDDQVM/two-fates">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Team Samui of the Hidden Cloud arrive at the Leaf Village and are shocked to<br>find it in ruins. Nonetheless, they carry out their orders to deliver the Raikage’s official<br>letter to the Hokage, when Danzo appears and announces that he is the new Hokage.</p>
+<p align="center">Naruto reproaches Sasuke for attempting to kill Sakura. Then Sasuke reveals that he killed Danzo<br>with his own hands. He goes on to declare his intent to purify the Uchiha<br>clan’s name by annihilating the Hidden Leaf.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 198 - Five Kage Summit's Eve</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 216 - High-Level Shinobi</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ce29ecaa9b1721a0c5d707232e2468ed1297188614_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8c3163249bd715c5f04cdaf0b68d89b01307384705_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXXWVK/five-kage-summits-eve">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEE9VV/high-level-shinobi">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Karui and Omoi of the Hidden Cloud press Naruto to give information regarding Sasuke. Naruto<br>realizes they’re motivated by wanting to save their captured master, but decides he cannot sell<br>out his friend. Instead, Naruto offers himself as a punching bag for Karui and Omoi<br>to abuse to their hearts’ content.</p>
+<p align="center">Years ago at the Final Valley, Sasuke told Naruto about high-level shinobi being able to<br>understand one another just by trading blows. Having become a high-level shinobi, Naruto is now<br>able to understand Sasuke’s heart.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 203 - Sasuke’s Ninja Way</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 217 - The Infiltrator</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5611a4cb706beeceef01d7348973a35d1299708752_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e3a3b3a4051d6b0ce0e522d27f930de51308706551_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU33P2W/sasukes-ninja-way">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMMNGM/the-infiltrator">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The truth behind Itachi’s actions leaves Naruto, Kakashi, and Yamato in shock. Madara then goes<br>on to reveal the eternal hate stemming from as far back as the rivalry between<br>the two sons of the legendary Sage of the Sixth Paths and its relation to<br>the Uchiha clan.</p>
+<p align="center">Killer Bee returns to the Hidden Cloud Village to the delight of Omoi and Karui.<br>He has brought Kisame’s sword, Samehada, with him. Bee believes the sword has taken a<br>liking to him but is unaware that this is all just part of the Akatsuki’s<br>plan.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 204 - Power of the Five Kage</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 218 - The Five Great Nations Mobilize</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/59eeeb9250d50006e3a38184f282f4701300909311_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/889292824ae92c2f8d21392d4ac21deb1308603470_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -404,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU99ZNP/power-of-the-five-kage">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMMKZG/the-five-great-nations-mobilize">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having blocked the combined attacks of Gaara, Temari, Kankuro, and Darui with his Susano’o, Sasuke<br>goes after Danzo.</p>
+<p align="center">The formation of the Allied Shinobi Forces is ratified by the Feudal Lords of the<br>Five Great Nations. Each Kage returns to their village to prepare for the coming war</p>
 </td>
 </tr>
 </table>
@@ -420,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 205 - Declaration of War</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 219 - Kakashi Hatake, the Hokage</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/440cd73c0977728f0fea15eb2775c4731301353096_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/97ea3ca68eef7b78e3def0a667e773811310004773_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -438,13 +200,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U331M9/declaration-of-war">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU77V8Z/kakashi-hatake-the-hokage">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The four Kage are startled by the sudden appearance of Madara Uchiha. Having sent Sasuke<br>away to safety using the Transportation Technique, Madara unveils to the Kage his “Project Tsuki<br>no Me.”</p>
+<p align="center">Naruto gathers his friends and tells them that he will defeat Sasuke alone. Meanwhile, the<br>Elders of the Leaf officially nominate Kakashi to become the next Hokage.</p>
 </td>
 </tr>
 </table>
@@ -454,143 +216,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 206 - Sakura’s Feelings</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f12074b0953d32535a364523fcda67121302048364_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/28/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWWK0E/sakuras-feelings">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Kage respond to Madara’s declaration of war by forming the Allied Shinobi Forces, with<br>the Raikage as their leader.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 207 - The Tailed Beast vs. The Tailless Tailed Beast</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/aff51315048e739c21fdbec5208077ff1302553721_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/28/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVVQJ0/the-tailed-beast-vs-the-tailless-tailed-beast">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Killer Bee engages in a deadly battle against Kisame, who has come to capture the<br>Eight-Tails.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 208 - As One’s Friend</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e8efcfc179aadbaf55fae34e5dcc6b381303159111_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/28/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQQN73/as-ones-friend">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Naruto learns from Sai that Sakura intends to kill Sasuke with her own hands. The<br>Sand arrives to brief the Leaf ninja about what happened at the Five Kage Summit.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 209 - Danzo’s Right Arm</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/24c3c7392e9a50af24ef18c443e2377b1303244136_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/28/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNNXKQ/danzos-right-arm">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Kakashi decides to go after Sakura to stop her, while Yamato and Naruto are ordered<br>to return to the Leaf Village. Meanwhile, Sasuke confronts Danzo after seeing the many Sharingan<br>embedded in his enemy’s right arm.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 210 - The Forbidden Visual Jutsu</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 210 - The Forbidden Visual Jutsu</h3></th>
 </tr>
 <tr>
 <td>
@@ -608,7 +234,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGGV2X/the-forbidden-visual-jutsu">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU88N2W/the-forbidden-visual-jutsu">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -624,7 +250,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 211 - Danzo Shimura</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 211 - Danzo Shimura</h3></th>
 </tr>
 <tr>
 <td>
@@ -642,7 +268,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEE9MG/danzo-shimura">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVVK24/danzo-shimura">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -658,7 +284,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 212 - Sakura’s Resolve</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 212 - Sakura’s Resolve</h3></th>
 </tr>
 <tr>
 <td>
@@ -676,13 +302,387 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU88NXW/sakuras-resolve">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU88NX9/sakuras-resolve">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
 <p align="center">Having tracked down Sasuke’s whereabouts with Kiba’s nose, Sakura attempts to put her allies to<br>sleep and carry out the task of killing Sasuke herself.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 213 - Lost Bonds</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6cb33f728ead4c44b57251b4a3a4c3cd1305746130_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/28/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNNX0X/lost-bonds">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Memories from his childhood course through Naruto’s mind as he rests to recover from his<br>hyperventilation.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 214 - The Burden</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/da2a4e31599d530fae5d36fede549b3c1306192709_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/28/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU773NV/the-burden">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sakura tells Sasuke that she wishes to desert the village and join him. A skeptical<br>Sasuke tells Sakura he will believe her if she can finish off Karin.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 205 - Declaration of War</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/440cd73c0977728f0fea15eb2775c4731301353096_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/28/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVVQP0/declaration-of-war">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The four Kage are startled by the sudden appearance of Madara Uchiha. Having sent Sasuke<br>away to safety using the Transportation Technique, Madara unveils to the Kage his “Project Tsuki<br>no Me.”</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 206 - Sakura’s Feelings</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f12074b0953d32535a364523fcda67121302048364_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/28/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQQN13/sakuras-feelings">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Kage respond to Madara’s declaration of war by forming the Allied Shinobi Forces, with<br>the Raikage as their leader.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 207 - The Tailed Beast vs. The Tailless Tailed Beast</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/aff51315048e739c21fdbec5208077ff1302553721_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/28/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNNXJQ/the-tailed-beast-vs-the-tailless-tailed-beast">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Killer Bee engages in a deadly battle against Kisame, who has come to capture the<br>Eight-Tails.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 208 - As One’s Friend</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e8efcfc179aadbaf55fae34e5dcc6b381303159111_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/28/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGGVNX/as-ones-friend">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Naruto learns from Sai that Sakura intends to kill Sasuke with her own hands. The<br>Sand arrives to brief the Leaf ninja about what happened at the Five Kage Summit.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 209 - Danzo’s Right Arm</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/24c3c7392e9a50af24ef18c443e2377b1303244136_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/28/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEE93G/danzos-right-arm">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kakashi decides to go after Sakura to stop her, while Yamato and Naruto are ordered<br>to return to the Leaf Village. Meanwhile, Sasuke confronts Danzo after seeing the many Sharingan<br>embedded in his enemy’s right arm.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 199 - Enter the Five Kage!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9e5544a7040608c414367a01a2520e0f1297365321_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/28/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMMGXQ/enter-the-five-kage">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kage from each nation set out to attend the Five Kage Summit.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 200 - Naruto’s Plea</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fbad27295f97a5dfd8957d238a38d5351297820512_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/28/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWWJQP/narutos-plea">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">To prevent the cycle of hatred bound to occur should Sasuke be killed, Naruto goes<br>to the Raikage and begs him to forgive Sasuke, but the Raikage quickly dismisses the<br>request.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 201 - Painful Decision</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/80f72828c9cef86b8ae60db134cc1b3c1298406186_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/28/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU33PDW/painful-decision">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mifune calls for the formation of the Allied Shinobi Forces to counter the Akatsuki and<br>proposes the Hokage to lead them. Meanwhile, Sai reveals Naruto’s actions to Sakura.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 202 - Racing Lightning</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f12fd63c65d8e09218e646f3041219fc1299096625_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/28/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU99Z2P/racing-lightning">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Madara, who has taken an interest in Naruto, makes a sudden appearance before Naruto and<br>reveals the truth behind Itachi’s actions.  Meanwhile, the samurai learn of Sasuke and his<br>team Taka’s entry into the Land of Iron, and battle ensues between the two groups.</p>
 </td>
 </tr>
 </table>
