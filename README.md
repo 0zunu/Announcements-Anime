@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/0zunu/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 27, 2026, 11:04:34 PM</em></p>
+<p align="center"><em>Updated on: Sep 28, 2026, 9:43:20 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/0zunu/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/0zunu/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/0zunu/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/0zunu/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Detective Conan - Episode 1214 - The Crimson Closing Day (Opening Day)</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 213 - Lost Bonds</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/25c6942f51720ad08fd2563e5f2d6fd51789764895_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6cb33f728ead4c44b57251b4a3a4c3cd1305746130_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/26/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34JNJ/the-crimson-closing-day-opening-day">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVVKE4/lost-bonds">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Heiji decides to tell Kazuha how he feels after watching a stage play based on<br>himself and Kogoro.</p>
+<p align="center">Memories from his childhood course through Naruto’s mind as he rests to recover from his<br>hyperventilation.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 21 - Reunion</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 214 - The Burden</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d134a6af642d11fe76af850ba6991a0f1772319250_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/da2a4e31599d530fae5d36fede549b3c1306192709_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN2K8/reunion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU88NJ9/the-burden">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The crew, with its latest new member Livio, regroup at Hopeland to kick off their<br>plan to stop Knives.</p>
+<p align="center">Sakura tells Sasuke that she wishes to desert the village and join him. A skeptical<br>Sasuke tells Sakura he will believe her if she can finish off Karin.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 22 - Martyr</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 215 - Two Fates</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1d55c5b4f63c36feb8593ca126c21911772924798_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/647787eb85c5253ac5ae2ef969b56dcb1306951881_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ7DN/martyr">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNNXVX/two-fates">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vash and Knives, and their respective allies, face off in a final showdown at the<br>crash site where it all started.</p>
+<p align="center">Naruto reproaches Sasuke for attempting to kill Sakura. Then Sasuke reveals that he killed Danzo<br>with his own hands. He goes on to declare his intent to purify the Uchiha<br>clan’s name by annihilating the Hidden Leaf.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 23 - I Miss You.</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 216 - High-Level Shinobi</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/51aa56b937e3cbc2a66a85fbb159e4181773850510_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8c3163249bd715c5f04cdaf0b68d89b01307384705_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3471M/i-miss-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU773PV/high-level-shinobi">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Knives arrives and captures Vash. His final plan is set in motion - as well<br>as Vash's final resistance.</p>
+<p align="center">Years ago at the Final Valley, Sasuke told Naruto about high-level shinobi being able to<br>understand one another just by trading blows. Having become a high-level shinobi, Naruto is now<br>able to understand Sasuke’s heart.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 24 - QUO VADIS</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 217 - The Infiltrator</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f92e5d9db0a2abeee6f3dbbe80cb17de1774392102_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e3a3b3a4051d6b0ce0e522d27f930de51308706551_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E0MM/quo-vadis">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDDQMM/the-infiltrator">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The immigrant fleet arrives, and Knives single-handedly threatens to eliminate them.</p>
+<p align="center">Killer Bee returns to the Hidden Cloud Village to the delight of Omoi and Karui.<br>He has brought Kisame’s sword, Samehada, with him. Bee believes the sword has taken a<br>liking to him but is unaware that this is all just part of the Akatsuki’s<br>plan.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STAMPEDE (Thai Dub) - Episode 12 - High Noon at July</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 218 - The Five Great Nations Mobilize</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d9ae1db235c924ba238e0f1abe3291671679759210_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/889292824ae92c2f8d21392d4ac21deb1308603470_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K9VW/high-noon-at-july">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEE9GV/the-five-great-nations-mobilize">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Knives takes away Vash's precious memories, disabling Vash completely. He begins the final phase of<br>the process that will change the planet forever. Meryl, however, isn't willing to sit idly<br>while this happens.</p>
+<p align="center">The formation of the Allied Shinobi Forces is ratified by the Feudal Lords of the<br>Five Great Nations. Each Kage returns to their village to prepare for the coming war</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 13 - Wandering Days</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 219 - Kakashi Hatake, the Hokage</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f04d669af80760fe17f3296d754f7d881767477718_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/97ea3ca68eef7b78e3def0a667e773811310004773_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN07G2/wandering-days">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMMNZM/kakashi-hatake-the-hokage">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Two years have passed since the events at JuLai. Vash is still missing. Someone is<br>stealing Plants again.</p>
+<p align="center">Naruto gathers his friends and tells them that he will defeat Sasuke alone. Meanwhile, the<br>Elders of the Leaf officially nominate Kakashi to become the next Hokage.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 14 - Unforgiven</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 220 - Prophecy of the Great Lord Elder</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e440c1a0976db81db8df6c1f33acd2ef1768583018_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f276dfd0975f676f12818710081fc1161311018465_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NJ12/unforgiven">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMMKDG/prophecy-of-the-great-lord-elder">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When their home is attacked, Vash is the last hope for Brad, Jessica, and the<br>others.</p>
+<p align="center">In Mount Myoboku, Gerotora, Fukasaku, and the Great Lord Elder are debating whether to give<br>Naruto the key to the Tetragram Seal left behind by Jiraiya, an act that could<br>unleash the Nine Tails.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 15 - Memento Mori</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 197 - The Sixth Hokage Danzo</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bac3e28e13c42684b46f2b576ac4f8a11769101737_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8aac5fc2f9e07803ef7b2201f93a30af1297188551_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVGEX/memento-mori">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU77V3Z/the-sixth-hokage-danzo">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The immediate threat is suppressed, but now there is no doubt that the threat from<br>Knives is still real.</p>
+<p align="center">Team Samui of the Hidden Cloud arrive at the Leaf Village and are shocked to<br>find it in ruins. Nonetheless, they carry out their orders to deliver the Raikage’s official<br>letter to the Hokage, when Danzo appears and announces that he is the new Hokage.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 16 - From Order To Chaos</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 198 - Five Kage Summit's Eve</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7eb120e7da3b0731b1dad1931ac403691769623433_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ce29ecaa9b1721a0c5d707232e2468ed1297188614_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVM3D/from-order-to-chaos">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXXWVK/five-kage-summits-eve">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vash sets off for Home with his companions, but Knives' men are already planning a<br>new attack.</p>
+<p align="center">Karui and Omoi of the Hidden Cloud press Naruto to give information regarding Sasuke. Naruto<br>realizes they’re motivated by wanting to save their captured master, but decides he cannot sell<br>out his friend. Instead, Naruto offers himself as a punching bag for Karui and Omoi<br>to abuse to their hearts’ content.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 17 - What a Wonderful World</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 203 - Sasuke’s Ninja Way</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/144fdc32c48e79ccf3b385a409c477ba1770327025_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5611a4cb706beeceef01d7348973a35d1299708752_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMG53P/what-a-wonderful-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU33P2W/sasukes-ninja-way">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Midvalley attacks Home and faces off against Wolfwood.</p>
+<p align="center">The truth behind Itachi’s actions leaves Naruto, Kakashi, and Yamato in shock. Madara then goes<br>on to reveal the eternal hate stemming from as far back as the rivalry between<br>the two sons of the legendary Sage of the Sixth Paths and its relation to<br>the Uchiha clan.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 18 - The Darkest Hour is Just Before the Dawn</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 204 - Power of the Five Kage</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6e6d8692190e60a4b17aefe3033ae0c11770751974_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/59eeeb9250d50006e3a38184f282f4701300909311_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ0V9/the-darkest-hour-is-just-before-the-dawn">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU99ZNP/power-of-the-five-kage">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Everyone prepares for a huge battle as Legato and the Ark approaches Ship 3.</p>
+<p align="center">Having blocked the combined attacks of Gaara, Temari, Kankuro, and Darui with his Susano’o, Sasuke<br>goes after Danzo.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 19 - The Hurt Locker</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 205 - Declaration of War</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d0aba4fb429c0ab0e99ace5740939cfc1771440399_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/440cd73c0977728f0fea15eb2775c4731301353096_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU782JX/the-hurt-locker">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U331M9/declaration-of-war">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the arrival of the fleet imminent, both factions begin preparations for the final showdown.</p>
+<p align="center">The four Kage are startled by the sudden appearance of Madara Uchiha. Having sent Sasuke<br>away to safety using the Transportation Technique, Madara unveils to the Kage his “Project Tsuki<br>no Me.”</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Thai Dub) - Episode 20 - Good Bye, My Friend</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 206 - Sakura’s Feelings</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0c08e92ecd22a0a5d2551f9ea295e2071772218844_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f12074b0953d32535a364523fcda67121302048364_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2JN8/good-bye-my-friend">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWWK0E/sakuras-feelings">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wolfwood helps Vash break out of the Ark, but is pursued by Razlo, Livio's alter<br>ego.</p>
+<p align="center">The Kage respond to Madara’s declaration of war by forming the Allied Shinobi Forces, with<br>the Raikage as their leader.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STAMPEDE (Thai Dub) - Episode 2 - The Running Man</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 207 - The Tailed Beast vs. The Tailless Tailed Beast</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0dce39b0d1fb1f9f7984ad8ad97d3db71673678321_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/aff51315048e739c21fdbec5208077ff1302553721_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E05M/the-running-man">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVVQJ0/the-tailed-beast-vs-the-tailless-tailed-beast">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Despite being saved by Vash twice already, the townsfolk of Jeneora Rock decide it's in<br>their best interest to capture Vash for his bounty. Vash decides to escape, but it's<br>not just the gun-toting townsfolk he needs to run away from.</p>
+<p align="center">Killer Bee engages in a deadly battle against Kisame, who has come to capture the<br>Eight-Tails.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STAMPEDE (Thai Dub) - Episode 3 - Bright Light, Shine through the Darkness</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 208 - As One’s Friend</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/11e1e0b3b303e68f75bba834dbc38efc1674289123_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e8efcfc179aadbaf55fae34e5dcc6b381303159111_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QEJE/bright-light-shine-through-the-darkness">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQQN73/as-ones-friend">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vash, the town of Jeneora Rock, and the Nebraskas reach a three-way truce, but their<br>brief moment of peace is shattered by yet another assailant. He seems to be after<br>the plant as well, but something more sinister seems to be at play.</p>
+<p align="center">Naruto learns from Sai that Sakura intends to kill Sasuke with her own hands. The<br>Sand arrives to brief the Leaf ninja about what happened at the Five Kage Summit.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STAMPEDE (Thai Dub) - Episode 4 - HUNGRY!</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 209 - Danzo’s Right Arm</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/63da98e97242aede48151d63f3cf14601674883280_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/24c3c7392e9a50af24ef18c443e2377b1303244136_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ5VK/hungry">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNNXKQ/danzos-right-arm">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vash meets Nicholas, a suspicious undertaker who carries a huge cross. Before they could get<br>to know each other, though, they are attacked by a huge worm, swallowing them and<br>the building they were in.</p>
+<p align="center">Kakashi decides to go after Sakura to stop her, while Yamato and Naruto are ordered<br>to return to the Leaf Village. Meanwhile, Sasuke confronts Danzo after seeing the many Sharingan<br>embedded in his enemy’s right arm.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STAMPEDE (Thai Dub) - Episode 5 - Child of Blessing</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 210 - The Forbidden Visual Jutsu</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5b481d297296e70d1ae753320341169a1675525451_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6d77783396f2a1e4f725efa908cf5c1f1304019778_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV471J/child-of-blessing">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGGV2X/the-forbidden-visual-jutsu">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vash is drawn towards a seemingly abandoned village with a giant windmill, for reasons that<br>only he knows. There, the group is attacked by a tremendous gale of gunfire.</p>
+<p align="center">Danzo’s uncanny jutsu prevents Sasuke from landing a clean hit on his enemy. As Karin<br>attempts to analyze Danzo’s jutsu, Madara recognizes it as Izanagi.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STAMPEDE (Thai Dub) - Episode 6 - Once Upon a Time in Hopeland</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 211 - Danzo Shimura</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/952bc57db08e4e3d11850fa6ad912b8b1676103844_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/85062979af25733400b89813ac6d74c01304724898_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2W01/once-upon-a-time-in-hopeland">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEE9MG/danzo-shimura">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vash and Wolfwood board the massive Sandsteamer vessel to travel to their final destination, JuLai.<br>Yet again, they are ambushed by a hail of gunfire, but this time, it's someone<br>Wolfwood knows.</p>
+<p align="center">Danzo believes he’s won the battle against Sasuke. Little does he realize, Sasuke placed him<br>under genjutsu before they last exchanged blows.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STAMPEDE (Thai Dub) - Episode 7 - WOLFWOOD</h3></th>
+<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Tamil Dub) - Episode 212 - Sakura’s Resolve</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/be1275470f4fbc5a147083fd4d3653c31676732682_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/eb7b67ea01eeb2b47af85aa872ef4fda1305223690_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/22/2026</td>
+<td align="center">9/28/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDM1D/wolfwood">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU88NXW/sakuras-resolve">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vash and Wolfwood work together to stop Livio, an assassin who has lost his sense<br>of self. The chaos is further accelerated by an attack by the Bad Lads Gang.<br>While this is happening, someone sabotages the Sandsteamer, sending it on a crash course with<br>Hopeland, Wolfwood's home town.</p>
+<p align="center">Having tracked down Sasuke’s whereabouts with Kiba’s nose, Sakura attempts to put her allies to<br>sleep and carry out the task of killing Sasuke herself.</p>
 </td>
 </tr>
 </table>
