@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/0zunu/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 29, 2026, 10:25:34 AM</em></p>
+<p align="center"><em>Updated on: Sep 30, 2026, 12:19:38 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/0zunu/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/0zunu/Announcements-Anime"></a> 
@@ -11,6 +11,74 @@
     <img align="center" src="https://github.com/0zunu/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/0zunu/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/0zunu/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/0zunu/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/0zunu/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Attack on Titan Final Season (Polish Dub) - Attack on Titan Final Season THE FINAL CHAPTERS Special 1</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1017583d42aaa83589b6aa95e4a51e6a1677868478_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/29/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV472X/attack-on-titan-final-season-the-final-chapters-special-1">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As the rumbling closes in, the group faces their final mission, struggling to stop Eren<br>before it's too late.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Attack on Titan Final Season (Polish Dub) - Attack on Titan Final Season THE FINAL CHAPTERS Special 2</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a722aeea2067e3e9ff69b9837c1149951699127779_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/29/2026</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2W8X/attack-on-titan-final-season-the-final-chapters-special-2">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Eren, as the Founding Titan, advances on Fort Salta with countless other Titans. Appearing before<br>the refugees, who stand on the brink of despair, are Mikasa, Armin, Jean, Conny, Reiner,<br>Pieck, and Levi, who narrowly escaped from the rumbling. The battle between former comrades and<br>childhood friends with Eren concludes here.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 220 - Prophecy of the Great Lord Elder</h3></th>
 </tr>
@@ -615,74 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">To prevent the cycle of hatred bound to occur should Sasuke be killed, Naruto goes<br>to the Raikage and begs him to forgive Sasuke, but the Raikage quickly dismisses the<br>request.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 201 - Painful Decision</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/80f72828c9cef86b8ae60db134cc1b3c1298406186_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/28/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU33PDW/painful-decision">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Mifune calls for the formation of the Allied Shinobi Forces to counter the Akatsuki and<br>proposes the Hokage to lead them. Meanwhile, Sai reveals Naruto’s actions to Sakura.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Naruto Shippuden: The Assembly of the Five Kage (Telugu Dub) - Episode 202 - Racing Lightning</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f12fd63c65d8e09218e646f3041219fc1299096625_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/28/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU99Z2P/racing-lightning">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Madara, who has taken an interest in Naruto, makes a sudden appearance before Naruto and<br>reveals the truth behind Itachi’s actions.  Meanwhile, the samurai learn of Sasuke and his<br>team Taka’s entry into the Land of Iron, and battle ensues between the two groups.</p>
 </td>
 </tr>
 </table>
